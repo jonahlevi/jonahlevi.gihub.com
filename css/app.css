@@ -99,3 +99,11 @@ li {
 .divider {
   color: #648AD0;
 }
+
+.pattern {
+  position: absolute;
+  width: 100%;
+  height:100%;
+  background-image: url(../img/pattern.jpg);
+  opacity: .4
+}
