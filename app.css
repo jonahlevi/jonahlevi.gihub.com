@@ -1,0 +1,671 @@
+@import url(https://fonts.googleapis.com/css?family=Didact+Gothic);
+
+/**
+ * PaymentFont Styles 1.1.2
+ *
+ * @since     2014-09-21
+ * @version   2015-04-24
+ *
+ * @author    Poellmann Alexander Manfred (@AMPoellmann)
+ * @copyright Copyright 2015 vendocrat. All Rights Reserved.
+ * @link      https://vendocr.at/
+ *
+ * @license   Font: SIL OFL 1.1, CSS: MIT License
+ */
+
+@font-face {
+  font-family:'PaymentFont';
+  src:url('assets/paymentfont/paymentfont-webfont.eot');
+  src:url('assets/paymentfont/paymentfont-webfont.eot?#iefix') format('embedded-opentype'),
+      url('assets/paymentfont/paymentfont-webfont.woff') format('woff2'),
+      url('assets/paymentfont/paymentfont-webfont.woff') format('woff'),
+      url('assets/paymentfont/paymentfont-webfont.ttf') format('truetype'),
+      url('assets/paymentfont/paymentfont-webfont.svg#paymentfont-webfont') format('svg');
+  font-weight:normal;
+  font-style:normal;}
+
+.pf {
+  display:inline-block;
+  font:normal normal normal 14px/1 PaymentFont;
+  font-size:inherit;
+  text-rendering:auto;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  margin-left: 5px;
+}
+
+.pf:first {
+	margin-left: none;
+}
+
+.pf-amazon:before {
+	content: "\f000";
+}
+.pf-american-express:before {
+	content: "\f001";
+}
+.pf-american-express-alt:before {
+	content: "\f002";
+}
+.pf-atm:before {
+	content: "\f003";
+}
+.pf-bankomat:before {
+	content: "\f004";
+}
+.pf-bank-transfer:before {
+	content: "\f005";
+}
+.pf-bitcoin:before {
+	content: "\f006";
+}
+.pf-bitcoin-sign:before {
+	content: "\f007";
+}
+.pf-braintree:before {
+	content: "\f008";
+}
+.pf-btc:before {
+	content: "\f009";
+}
+.pf-card:before {
+	content: "\f00a";
+}
+.pf-carta-si:before {
+	content: "\f00b";
+}
+.pf-cash:before {
+	content: "\f00c";
+}
+.pf-cash-on-delivery:before {
+	content: "\f00d";
+}
+.pf-cb:before {
+	content: "\f00e";
+}
+.pf-cirrus:before {
+	content: "\f00f";
+}
+.pf-cirrus-alt:before {
+	content: "\f010";
+}
+.pf-clickandbuy:before {
+	content: "\f011";
+}
+.pf-credit-card:before {
+	content: "\f012";
+}
+.pf-diners:before {
+	content: "\f013";
+}
+.pf-discover:before {
+	content: "\f014";
+}
+.pf-ec:before {
+	content: "\f015";
+}
+.pf-eps:before {
+	content: "\f016";
+}
+.pf-eur:before {
+	content: "\f017";
+}
+.pf-facture:before {
+	content: "\f018";
+}
+.pf-fattura:before {
+	content: "\f019";
+}
+.pf-flattr:before {
+	content: "\f01a";
+}
+.pf-giropay:before {
+	content: "\f01b";
+}
+.pf-gittip:before,
+.pf-gratipay:before {
+	content: "\f01c";
+}
+.pf-google-wallet:before {
+	content: "\f01d";
+}
+.pf-google-wallet-alt:before {
+	content: "\f01e";
+}
+.pf-gbp:before {
+	content: "\f01f";
+}
+.pf-ideal:before {
+	content: "\f020";
+}
+.pf-ils:before {
+	content: "\f021";
+}
+.pf-inr:before {
+	content: "\f022";
+}
+.pf-invoice:before {
+	content: "\f023";
+}
+.pf-invoice-sign:before {
+	content: "\f024";
+}
+.pf-invoice-sign-alt:before {
+	content: "\f025";
+}
+.pf-invoice-sign-alt-o:before {
+	content: "\f026";
+}
+.pf-invoice-sign-o:before {
+	content: "\f027";
+}
+.pf-jcb:before {
+	content: "\f028";
+}
+.pf-jpy:before {
+	content: "\f029";
+}
+.pf-krw:before {
+	content: "\f02a";
+}
+.pf-maestro:before {
+	content: "\f02b";
+}
+.pf-maestro-alt:before {
+	content: "\f02c";
+}
+.pf-mastercard:before {
+	content: "\f02d";
+}
+.pf-mastercard-alt:before {
+	content: "\f02e";
+}
+.pf-mastercard-securecode:before {
+	content: "\f02f";
+}
+.pf-ogone:before {
+	content: "\f030";
+}
+.pf-paybox:before {
+	content: "\f031";
+}
+.pf-paylife:before {
+	content: "\f032";
+}
+.pf-paypal:before {
+	content: "\f033";
+}
+.pf-paypal-alt:before {
+	content: "\f034";
+}
+.pf-paysafecard:before {
+	content: "\f035";
+}
+.pf-postepay:before {
+	content: "\f036";
+}
+.pf-quick:before {
+	content: "\f037";
+}
+.pf-rechnung:before {
+	content: "\f038";
+}
+.pf-ripple:before {
+	content: "\f039";
+}
+.pf-rub:before {
+	content: "\f03a";
+}
+.pf-skrill:before {
+	content: "\f03b";
+}
+.pf-sofort:before {
+	content: "\f03c";
+}
+.pf-square:before {
+	content: "\f03d";
+}
+.pf-stripe:before {
+	content: "\f03e";
+}
+.pf-truste:before {
+	content: "\f03f";
+}
+.pf-try:before {
+	content: "\f040";
+}
+.pf-unionpay:before {
+	content: "\f041";
+}
+.pf-usd:before {
+	content: "\f042";
+}
+.pf-verified-by-visa:before {
+	content: "\f043";
+}
+.pf-verisign:before {
+	content: "\f044";
+}
+.pf-visa:before {
+	content: "\f045";
+}
+.pf-visa-electron:before {
+	content: "\f046";
+}
+.pf-western-union:before {
+	content: "\f047";
+}
+.pf-western-union-alt:before {
+	content: "\f048";
+}
+.pf-wirecard:before {
+	content: "\f049";
+}
+.pf-sepa:before {
+	content: "\f04a";
+}
+.pf-sepa-alt:before {
+	content: "\f04b";
+}
+.pf-apple-pay:before {
+	content: "\f04c";
+}
+.pf-interac:before {
+	content: "\f04d";
+}
+.pf-paymill:before {
+	content: "\f04e";
+}
+.pf-dankort:before {
+	content: "\f04f";
+}
+.pf-bancontact-mister-cash:before {
+	content: "\f050";
+}
+.pf-moip:before {
+	content: "\f051";
+}
+.pf-pagseguro:before {
+	content: "\f052";
+}
+.pf-cash-on-pickup:before {
+	content: "\f053";
+}
+.pf-sage:before {
+	content: "\f054";
+}
+.pf-elo:before {
+	content: "\f055";
+}
+.pf-elo-alt:before {
+	content: "\f056";
+}
+.pf-payu:before {
+	content: "\f057";
+}
+.pf-mercado-pago:before {
+	content: "\f058";
+}
+.pf-mercado-pago-sign:before {
+	content: "\f059";
+}
+.pf-payshop:before {
+	content: "\f05a";
+}
+.pf-multibanco:before {
+	content: "\f05b";
+}
+.pf-gratipay-sign:before {
+	content: "\f05c";
+}
+.pf-six:before {
+	content: "\f05d";
+}
+.pf-cashcloud:before {
+	content: "\f05e";
+}
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/**
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+    *zoom: 1;
+}
+
+/*
+	Begin custom style
+*/
+.one-half-legal {
+	width: 45%;
+	margin-left: 10%;
+	float: left;
+}
+
+.five-sixths,.four-sixths,.four-fifths,.one-fifth,.one-fourth,.one-half,.one-sixth,.one-third,.three-fourths,.three-fifths,.three-sixths,.two-fourths,.two-fifths,.two-sixths,.two-thirds {float: left;margin-left: 2.564102564102564%;}.one-half,.three-sixths,.two-fourths {width: 48.717948717948715%;}.one-third,.two-sixths {width: 31.623931623931625%}.four-sixths,.two-thirds {width: 65.81196581196582%}.one-fourth {width: 23.076923076923077%}.three-fourths {width: 74.35897435897436%}.one-fifth {width: 17.9487179487179488%}.two-fifths {width: 38.4615384615384616%}.three-fifths {width: 58.9743589743589744%}.four-fifths {width: 79.4871794871794872%}.one-sixth {width: 14.52991452991453%}.five-sixths {width: 82.90598290598291%}.first {clear: both;margin-left: 0!important}
+
+body {
+	font-family: 'Didact Gothic';
+	color: #625f68;
+	font-size: 19px;
+	line-height: 31px;
+	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+	font-size: 35px;
+	margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: bold;
+  margin: 40px 0 20px 0;
+  text-transform: uppercase;
+}
+
+h4 {
+	margin: 20px 0;
+}
+
+a {
+	color: #625f68;
+	text-decoration: none;
+	-o-transition: .25s;
+    -ms-transition: .25s;
+    -moz-transition: .25s;
+    -webkit-transition: .25s;
+    transition: .25s;
+}
+
+a:hover {
+  color: #999;
+}
+
+.inner {
+	width: 980px;
+	margin: 0 auto;
+}
+
+.light {
+	color: #e1e1e1;
+}
+
+.invisible {
+	opacity: 0;
+}
+
+.center {
+	text-align: center;
+}
+
+/* Loading Screen */
+.overlay {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background: #fff;
+	z-index: 2;
+}
+
+img.logo-loading {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+}
+
+@-webkit-keyframes home-loading {
+  0% { opacity: 100;}
+  100% { opacity: 0;}
+
+}
+
+.loading {
+  background: url('assets/logo-loading.png') center center no-repeat;
+  width: 100%;
+  height: 100%;
+
+  -webkit-animation: home-loading 1s infinite alternate; /* Safari 4+ */
+  -moz-animation:    home-loading 1s infinite alternate; /* Fx 5+ */
+  -o-animation:      home-loading 1s infinite alternate; /* Opera 12+ */
+  animation:         home-loading 1s infinite alternate; /* IE 10+, Fx 29+ */
+}
+
+
+/* Header */
+header {
+	margin: 30px 0;
+}
+
+.nav {
+	color: #a1a1a1;
+}
+
+.nav-element {
+	float: left;
+}
+
+.nav > .active {
+  color: #494949;
+  border-bottom: 2px solid #494949;
+}
+
+.filler {
+  background: #E8E8E8;
+  float: left;
+  width: 40px;
+  height: 4px;
+  margin: 15px;
+
+}
+
+.right {
+	float: right;
+}
+
+/* Home Screen */
+@-webkit-keyframes home-color {
+  0% { background: #EAEAEA;}
+  33% { background: #E4EBF4;}
+  66% { background: #F9ECEC;}
+  100% { background: #EFF5F2;}
+
+}
+
+.home-color {
+  width: 100vw;
+  height: 620px;
+
+  -webkit-animation: home-color 25s infinite alternate; /* Safari 4+ */
+  -moz-animation:    home-color 25s infinite alternate; /* Fx 5+ */
+  -o-animation:      home-color 25s infinite alternate; /* Opera 12+ */
+  animation:         home-color 25s infinite alternate; /* IE 10+, Fx 29+ */
+}
+
+.logo-big {
+  background-image: url('assets/logo-big.png');
+  width: 654px;
+  height: 538px;
+  position: relative;
+  bottom: 418px;
+  left: 263px;
+}
+
+.home-text {
+  font-size: 130px;
+  line-height: 142px;
+  position: relative;
+  right: 69px;
+  font-weight: bold;
+  top: 60px;
+  z-index: 1;
+}
+
+.find-out-more {
+  position: relative;
+  right: 69px;
+  border-bottom: 3px solid;
+  width: 134px;
+  top: 80px;
+}
+
+/* Story */
+
+.story-logo{
+	text-align: center;
+}
+
+img.st-lg {
+	width: 175px;
+	padding-bottom: 60px;
+}
+
+.story > p {
+	margin-bottom: 30px;
+}
+
+.story {
+	line-height: 33px;
+	font-size: 20px;
+	margin: 0 auto;
+	width: 800px;
+	padding: 100px 0;
+}
+
+.story-space {
+	margin-bottom: 30px;
+} 
+
+.story-background {
+  background: #fafafa;
+  color: #6F7583;
+}
+
+/* Footer */
+footer {
+	margin-bottom: 10px;
+	margin-top: 60px;
+	font-size: 17px;
+	line-height: 28px;
+}
+.footer-title, .story-title {
+	text-transform: uppercase;
+	font-size: 16px;
+}
+
+.sep {
+	background: #625f68;
+	width: 12px;
+	height: 4px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.footer-bar {
+	padding-top: 25px;
+	font-size: 15px;
+}
+
+.payment {
+	font-size: 26px;
+	text-align: center;
+	line-height: 34px;
+}
+
+/* Legal */
+.date {
+	color: #bababa;
+}
+
+.fine-print {
+	font-size: 16px;
+	line-height: 25px;
+	background-color: #fff;
+}
+
+.easy > p, .fine-print > p {
+	margin-bottom: 20px;
+}
+
+.legal {
+	width: 100%;
+}
+
+.easy {
+	margin-top: 40px;
+	border-top: 1px solid #c1ced7;
+	border-bottom: 1px solid #c1ced7;
+	padding: 10px 0;
+}
