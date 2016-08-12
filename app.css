@@ -412,6 +412,13 @@ table {
 
 .five-sixths,.four-sixths,.four-fifths,.one-fifth,.one-fourth,.one-half,.one-sixth,.one-third,.three-fourths,.three-fifths,.three-sixths,.two-fourths,.two-fifths,.two-sixths,.two-thirds {float: left;margin-left: 2.564102564102564%;}.one-half,.three-sixths,.two-fourths {width: 48.717948717948715%;}.one-third,.two-sixths {width: 31.623931623931625%}.four-sixths,.two-thirds {width: 65.81196581196582%}.one-fourth {width: 23.076923076923077%}.three-fourths {width: 74.35897435897436%}.one-fifth {width: 17.9487179487179488%}.two-fifths {width: 38.4615384615384616%}.three-fifths {width: 58.9743589743589744%}.four-fifths {width: 79.4871794871794872%}.one-sixth {width: 14.52991452991453%}.five-sixths {width: 82.90598290598291%}.first {clear: both;margin-left: 0!important}
 
+.top-color {
+  background: #d3bfe2;
+  height: 10px;
+  width: 100%;
+  margin-bottom: 40px;
+}
+
 body {
 	font-family: 'Didact Gothic';
 	color: #625f68;
@@ -448,11 +455,11 @@ a {
 }
 
 a:hover {
-  color: #999;
+  color: #d3bfe2;
 }
 
 .inner {
-	width: 980px;
+	width: 1024px;
 	margin: 0 auto;
 }
 
@@ -505,9 +512,6 @@ img.logo-loading {
 
 
 /* Header */
-header {
-	margin: 30px 0;
-}
 
 .nav {
 	color: #a1a1a1;
@@ -535,50 +539,9 @@ header {
 	float: right;
 }
 
-/* Home Screen */
-@-webkit-keyframes home-color {
-  0% { background: #EAEAEA;}
-  33% { background: #E4EBF4;}
-  66% { background: #F9ECEC;}
-  100% { background: #EFF5F2;}
-
-}
-
-.home-color {
-  width: 100vw;
-  height: 620px;
-
-  -webkit-animation: home-color 25s infinite alternate; /* Safari 4+ */
-  -moz-animation:    home-color 25s infinite alternate; /* Fx 5+ */
-  -o-animation:      home-color 25s infinite alternate; /* Opera 12+ */
-  animation:         home-color 25s infinite alternate; /* IE 10+, Fx 29+ */
-}
-
-.logo-big {
-  background-image: url('assets/logo-big.png');
-  width: 654px;
-  height: 538px;
-  position: relative;
-  bottom: 418px;
-  left: 263px;
-}
-
-.home-text {
-  font-size: 130px;
-  line-height: 142px;
-  position: relative;
-  right: 69px;
-  font-weight: bold;
-  top: 60px;
-  z-index: 1;
-}
-
-.find-out-more {
-  position: relative;
-  right: 69px;
-  border-bottom: 3px solid;
-  width: 134px;
-  top: 80px;
+/* Hero */
+.hero {
+	margin: 30px 0;
 }
 
 /* Story */
@@ -611,6 +574,7 @@ img.st-lg {
 .story-background {
   background: #fafafa;
   color: #6F7583;
+  margin-top: 30px;
 }
 
 /* Footer */
@@ -619,6 +583,8 @@ footer {
 	margin-top: 60px;
 	font-size: 17px;
 	line-height: 28px;
+	border-top: 10px solid #d3bfe2;
+	padding-top: 40px
 }
 .footer-title, .story-title {
 	text-transform: uppercase;
