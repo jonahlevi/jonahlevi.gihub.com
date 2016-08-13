@@ -577,6 +577,11 @@ img.st-lg {
   margin-top: 30px;
 }
 
+.last-home-element{
+  padding-top: 10px;
+  margin-bottom: -30px;
+}
+
 /* Footer */
 footer {
 	margin-bottom: 10px;
