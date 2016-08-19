@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Didact+Gothic);
+@import 'https://fonts.googleapis.com/css?family=Cormorant+Garamond|Didact+Gothic';
 
 /**
  * PaymentFont Styles 1.1.2
@@ -15,12 +15,12 @@
 
 @font-face {
   font-family:'PaymentFont';
-  src:url('assets/paymentfont/paymentfont-webfont.eot');
-  src:url('assets/paymentfont/paymentfont-webfont.eot?#iefix') format('embedded-opentype'),
-      url('assets/paymentfont/paymentfont-webfont.woff') format('woff2'),
-      url('assets/paymentfont/paymentfont-webfont.woff') format('woff'),
-      url('assets/paymentfont/paymentfont-webfont.ttf') format('truetype'),
-      url('assets/paymentfont/paymentfont-webfont.svg#paymentfont-webfont') format('svg');
+  src:url('paymentfont/paymentfont-webfont.eot');
+  src:url('paymentfont/paymentfont-webfont.eot?#iefix') format('embedded-opentype'),
+      url('paymentfont/paymentfont-webfont.woff') format('woff2'),
+      url('paymentfont/paymentfont-webfont.woff') format('woff'),
+      url('paymentfont/paymentfont-webfont.ttf') format('truetype'),
+      url('paymentfont/paymentfont-webfont.svg#paymentfont-webfont') format('svg');
   font-weight:normal;
   font-style:normal;}
 
@@ -500,7 +500,7 @@ img.logo-loading {
 }
 
 .loading {
-  background: url('assets/logo-loading.png') center center no-repeat;
+  background: url('../images/logo-loading.png') center center no-repeat;
   width: 100%;
   height: 100%;
 
@@ -510,6 +510,40 @@ img.logo-loading {
   animation:         home-loading 1s infinite alternate; /* IE 10+, Fx 29+ */
 }
 
+/* Serif Home */
+
+.elm {
+	margin-top: 10px;
+	margin-bottom: -30px;
+}
+
+.lilac {
+	background: #d3bfe2;
+	font-family: 'Cormorant Garamond', serif;
+	color: #67655c;
+	text-align: center;
+	padding: 30px 0;
+}
+
+.inner-box {
+	padding: 40px;
+}
+
+p.title {
+	font-size: 25px;
+	text-transform: uppercase;
+}
+
+div.divider {
+	width: 100px;
+	height: 1px;
+	margin: 10px auto;
+	background: #67655c;
+}
+
+p.sub {
+	font-family: 'Didact Gothic';
+}
 
 /* Header */
 
@@ -564,7 +598,7 @@ img.st-lg {
 	font-size: 20px;
 	margin: 0 auto;
 	width: 800px;
-	padding: 100px 0;
+	padding: 50px 0 100px 0;
 }
 
 .story-space {
@@ -573,16 +607,18 @@ img.st-lg {
 
 .story-background {
   background: #fafafa;
-  color: #6F7583;
+  color: #626262;
   margin-top: 30px;
-}
-
-.last-elm{
-  padding-top: 10px;
-  margin-bottom: -30px;
+  padding-top: 30px;
 }
 
 /* Footer */
+
+.gia {
+	text-align: center;
+	margin-top: 15%;
+}
+
 footer {
 	margin-bottom: 10px;
 	margin-top: 60px;
