@@ -9,8 +9,6 @@ layout: page
 	<p>
 	Acquiring diamonds. A very sensitive task, and the acquisition bears virtue and substance. Jonah Levi delivers exquisite natural diamonds to make every single of these significant moments worthwhile. As the stone is set into the jewelry, it marks the beginning of a venture. The sparkle you see, the excellence you immediately comprehend, and the affirmative smile your customers give&mdash;it all becomes a pleasurable ritual with diamonds from Jonah Levi.
 	</p>
-
-<<<<<<< HEAD
 <div class="row cf">
 <h3 class="story-title">Who We Are</h3>
 <p class="finer">Jonah Levi is a diamond supplier headquartered in the South of Germany, and is active in distributing exquisite, polished, natural diamonds to demanding professional clients, such as jewelery manufacturers, watch manufacturers, independent jewelery designers, and hard-asset portfolio managers.</p>
@@ -26,7 +24,7 @@ layout: page
 <h3 class="story-title">Where We Are Going</h3>
 <p class="finer">Our direct and established contacts at the international diamond bourses, allow us to provide exceptional prices and long term supply arrangements for key accounts. On these grounds, we will continue to expand our operations internationally. Currently, we are building a branch in Indonesia to serve our Asian clientel and will expand our operations globally as well as vertically, in order to serve end-clients with custom made jewelery.</p>
 </div>
-=======
+
 <div class="one-third first story-title">Who we are</div>
 <div class="two-thirds"><p>Jonah Levi is a diamond supplier headquartered in the South of Germany, and is active in distributing exquisite, polished, natural diamonds to demanding professional clients, such as jewelery manufacturers, watch manufacturers, independent jewelery designers, and hard-asset portfolio managers.</p></div>
 <div class="story-space cf"></div>
@@ -35,13 +33,6 @@ layout: page
 <div class="story-space cf"></div>
 <div class="one-third first story-title">Where we are going</div>
 <div class="two-thirds"><p>Our direct and established contacts at the international diamond bourses, allow us to provide exceptional prices and long term supply arrangements for key accounts. On these grounds, we will continue to expand our operations internationally. Currently, we are building a branch in Indonesia to serve our Asian clientel and will expand our operations globally as well as vertically, in order to serve end-clients with custom made jewelery.</p></div>
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
->>>>>>> origin/master
-=======
->>>>>>> origin/master
 
 
 
