@@ -25,18 +25,7 @@ layout: page
 <p class="finer">Our direct and established contacts at the international diamond bourses, allow us to provide exceptional prices and long term supply arrangements for key accounts. On these grounds, we will continue to expand our operations internationally. Currently, we are building a branch in Indonesia to serve our Asian clientel and will expand our operations globally as well as vertically, in order to serve end-clients with custom made jewelery.</p>
 </div>
 
-<div class="one-third first story-title">Who we are</div>
-<div class="two-thirds"><p>Jonah Levi is a diamond supplier headquartered in the South of Germany, and is active in distributing exquisite, polished, natural diamonds to demanding professional clients, such as jewelery manufacturers, watch manufacturers, independent jewelery designers, and hard-asset portfolio managers.</p></div>
-<div class="story-space cf"></div>
-<div class="one-third first story-title">What we do</div>
-<div class="two-thirds"><p>We service our clients with a rich assortment of the finest, loose, <a target="blank_" href="http://www.gia.edu/">GIA</a>-certified diamonds, ranging from .3 points up to 20 carats. On some occasions, we also offer high-quality non-certified diamonds in the range of .01 points up to 3 carats&mdash;always yielding best value for our clients due to direct contact to the bourses.</p></div>
-<div class="story-space cf"></div>
-<div class="one-third first story-title">Where we are going</div>
-<div class="two-thirds"><p>Our direct and established contacts at the international diamond bourses, allow us to provide exceptional prices and long term supply arrangements for key accounts. On these grounds, we will continue to expand our operations internationally. Currently, we are building a branch in Indonesia to serve our Asian clientel and will expand our operations globally as well as vertically, in order to serve end-clients with custom made jewelery.</p></div>
-
-
-
-	</div>
+</div>
 
 <div class="cta">
 	<div class="center">
