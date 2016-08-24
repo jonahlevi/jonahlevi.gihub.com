@@ -436,6 +436,10 @@ p {
 	margin-bottom: 25px;
 }
 
+.bold {
+	font-weight: 600;
+}
+
 body {
 	font-family: 'Didact Gothic';
 	color: #625f68;
