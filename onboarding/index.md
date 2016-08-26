@@ -1,9 +1,12 @@
 ---
 layout: page
+description: Wholesale Diamonds Online ⇒ Buy Exceptional Diamonds and Exceptional Prices @ Jonah Levi Diamonds of Germany. B2B and B2C. Inquire NOW!
+title: Wholesale Diamonds Online — Get the Popular List Now!
+keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale diamonds, buy wholesale diamonds online
 ---
 
 <section class="story-background cf">
-<img src="{{ site.baseurl }}assets/images/about-top.jpg">
+<img title="Wholesale Diamonds Online with Low Buy Prices" alt="Jonah Levi Diamanten offers Wholesale Gia certified Diamonds Online" src="{{ site.baseurl }}assets/images/about-top.jpg">
 	<div class="story cf">
 	
 
