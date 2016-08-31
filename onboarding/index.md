@@ -128,7 +128,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 <div class="row cf">
 	<div class="one-half-faq first">
 		<h5>How is your shipping policy?</h5>
-		<p>We usually ship within three working days after receiving your payment.</p>
+		<p>We usually ship within three working days after receiving your payment. Depending on the value of the diamond and the customer's preferences, we either use FedEx or Brink's, Ferrari Logistics, or Malca-Amit.</p>
 	</div> 
 	<div class="one-half-faq">
 		<h5>When will I receive my order?</h5>
