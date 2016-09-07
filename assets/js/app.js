@@ -7,7 +7,7 @@
 /*-----------------------------------------------------------------------------------*/
 /*		0. Loading Div
 /*-----------------------------------------------------------------------------------*/
-$(window).load(function()
+$(window).load( function()
 	{
 	var l = $(".overlay"),
 	    s = {display:"none",background:"none",width:"0",height:"0"};
@@ -19,11 +19,49 @@ $(window).load(function()
 }
 );
 
+$( document ).ready(function() {
 /*-----------------------------------------------------------------------------------*/
 /*		1. Scroll to CTA
 /*-----------------------------------------------------------------------------------*/
-$(".to-cta").click(function() {
+$("a.to-cta").click( function() {
     $('html, body').animate({
         scrollTop: $("#cta").offset().top
-    }, 2000);
+    }, 1500);
+});
+
+/*-----------------------------------------------------------------------------------*/
+/*		2. Hellobar
+/*-----------------------------------------------------------------------------------*/
+		
+		if (Cookies.get('hellobar') == undefined) {
+			Cookies.set('hellobar', 'fresh');
+		};
+		
+
+		if (Cookies.get('hellobar') === 'fresh') {
+
+			setTimeout(function() {
+    		$('#hellobar').animate({marginTop: 0}, 300);
+		}, 1500);
+
+		};
+
+		
+
+		$('#hellobar .close').click( function() {
+			
+			Cookies.set('hellobar', 'no', { expires: 2 });
+
+			$('#hellobar').animate({marginTop: -52}, 200);
+
+		});
+
+		$('#hellobar a').click( function() {
+			
+			Cookies.set('hellobar', 'yes', { expires: 30 });
+
+			$('#hellobar').animate({marginTop: -52}, 200);
+
+		});
+
 });

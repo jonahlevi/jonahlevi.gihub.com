@@ -164,7 +164,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 	<div class="center">
 	<h2 class="cta-head">Get More for What You Pay</h2>
 <div class="cta-sub">Exceptional Diamonds at Exceptional Prices</div>
-<a class="cta-btn to-cta" href="/onboarding">Become a Client</a>
+<a class="cta-btn to-cta" href="#">Become a Client</a>
 </div>
 </div>
 </section>

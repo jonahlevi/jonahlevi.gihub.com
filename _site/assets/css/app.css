@@ -556,6 +556,40 @@ img.logo-loading {
 	margin-bottom: -30px;
 }
 
+#hellobar {
+	margin-top: 0px;
+	height: 52px;
+	width: 100%;
+	overflow: hidden;
+	margin-top: -52px;
+	background: #8D9FC5;
+}
+
+.hello-container {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+#hellobar p {
+	float: left;
+	width: 1024px;
+	color: #fff;
+	text-align: center;
+	padding-top: 12px;
+}
+
+#hellobar a {
+	color: #494963;
+}
+
+#hellobar .close a {
+  float: right;
+  position: relative;
+  top: -54px;
+  color: #636E84;
+  font-size: 16px;
+}
+
 .lilac {
 	background: #d3bfe2;
 	font-family: 'Cormorant Garamond', serif;
@@ -664,13 +698,14 @@ a.sub:hover {
   background: #fafafa;
   color: #626262;
   margin-top: 30px;
-  padding-top: 30px;
+  padding-top: 100px;
 }
 
 .dark {
 	color: #DFD8D2;
 	background: #3E3C3B;
 	padding-top: 70px;
+	margin-top: 30px;
 	text-align: center;
 }
 
