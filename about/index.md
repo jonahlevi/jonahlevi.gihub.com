@@ -5,7 +5,7 @@ description: GIA Certified Loose Diamonds for Sale Online — Get More for What 
 keywords: gia loose diamond sale, gia loose diamond online, gia certified diamonds for sale, gia certified diamonds wholesale, diamanten online kaufen
 ---
 
-<section class="story-background dark cf">
+<section class="dark cf">
 <div class="center"><img alt="Jonah Levi Diamanten is offering GIA certified loose diamonds for sale online" title="Buy GIA certified loose diamonds online for wholesale" src="{{ site.baseurl }}assets/images/logo-lilac.png"></div>
 	<div class="story cf">
 	
