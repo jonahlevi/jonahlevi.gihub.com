@@ -760,11 +760,11 @@ span.sep {
 }
 
 ul.benefits {
-	margin-top: 18px;
+	margin-top: 12px;
 }
 
 ul > li {
-	margin-bottom: 5px;
+	margin-bottom: 7px;
 } 
 
 .row {
@@ -874,4 +874,13 @@ input#mc-embedded-subscribe {
     padding: 12px 20px;
     border-radius: 4px;
     margin: 10px 0;
+}
+
+.highlight {
+  background-image: url(../images/highlight_left.png),url(../images/highlight_center.png),url(../images/highlight_right.png);
+  background-repeat: no-repeat,repeat-x,no-repeat;
+  background-position: left,center,right;
+  background-clip: padding-box,content-box,padding-box;
+  padding: 0 10px;
+  margin: 0 -10px;
 }

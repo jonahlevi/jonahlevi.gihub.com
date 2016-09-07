@@ -28,16 +28,16 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 
 <div class="one-half first">
 	<ul class="benefits">
-	<li>&#10004; Daily up to 200 new diamonds</li>
-	<li>&#10004; Classic and Exotic Cuts</li>
-	<li>&#10004; Deeply Discounted Diamonds Every Week</li>
-	<li>&#10004; Rare Fancy Colors</li>
-	<li>&#10004; Convenient &amp; Secure Payment Methods</li>
-	<li>&#10004; High Secure Shipping</li>
-	<li>&#10004; Order by Mail or Phone 24/7</li>
-	<li>&#10004; CanadaMark and ForeverMark Eligible </li>
-	<li>&#10004; HDR, IGI, and GIA Certified Diamonds</li>
-	<li>&#10004; 360° Full-HD clips of our Diamonds</li>
+	<li>&#10004; Weekly up to <span class="highlight">200 fresh</span> diamonds</li>
+	<li>&#10004; All covered: <span class="highlight">Round and Fancy Cuts</span></li>
+	<li>&#10004; Weekly Sale: Up to <span class="highlight">65 Percent Discounted</span>!</li>
+	<li>&#10004; Incredibly Rare, <span class="highlight">Intense Fancy</span> Colors</li>
+	<li>&#10004; <span class="highlight">Convenient &amp; Secure</span> Payment Methods</li>
+	<li>&#10004; <span class="highlight">100 Percent</span> Insured Shipping</li>
+	<li>&#10004; Order by Mail or Phone <span class="highlight">24/7</span></li>
+	<li>&#10004; <span class="highlight">CanadaMark</span> and <span class="highlight">ForeverMark</span> Eligible </li>
+	<li>&#10004; HDR, IGI, and <span class="highlight">GIA Certified</span> Diamonds</li>
+	<li>&#10004; <span class="highlight">360° Full-HD clips</span> of our Diamonds</li>
 	</ul>
 	</div>
 
