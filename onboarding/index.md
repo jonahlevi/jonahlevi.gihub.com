@@ -121,7 +121,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 	<div class="one-half-faq">
 		<h5>What are the payment methods?</h5>
 		<p>We preferably offer wire transfer, but also accept PayPal for new clients, and all Visa and MasterCard credit cards. Please note, that other payment methods as wire transfer may delay your order.</p>
-		<p>Please also note, that we do do accept orders on consignment only on a case by case basis after five transactions.</p>
+		<p>Please also note, that we do accept orders on consignment only on a case by case basis after five transactions.</p>
 	</div> 
 </div>
 

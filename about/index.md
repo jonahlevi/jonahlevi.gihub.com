@@ -25,7 +25,7 @@ keywords: gia loose diamond sale, gia loose diamond online, gia certified diamon
 
 <div class="row cf">
 <h3 class="story-title">Where We Are Going</h3>
-<p class="finer">Our direct and established contacts at the international diamond bourses and to high-grade manufactures, allow us to provide exceptional prices and long term supply arrangements for key accounts. On these grounds, we will continue to expand our operations internationally. Currently, we are building a branch in Indonesia to serve our Asian clientel and will expand our operations globally as well as vertically, in order to serve end-clients with custom made jewelery.</p>
+<p class="finer">Our direct and established contacts at the international diamond bourses and to high-grade manufactures, allow us to provide exceptional prices and long term supply arrangements for key accounts. On these grounds, we will continue to expand our operations internationally. Currently, we are building a branch in Indonesia to serve our Asian clientel and will expand our operations globally as well as vertically, in order to serve end-clients with custom made jewelry.</p>
 </div>
 
 </div>

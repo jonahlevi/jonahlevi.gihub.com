@@ -1,5 +1,7 @@
 ---
 layout: page
+description: This is the imprint for Jonah Levi Diamanten, a diamond supplying company for natural, polished, loose, GIA certified diamonds.
+keywords: buy gia certified diamonds, buy diamonds online, wholesale diamonds online
 ---
 
 <section>
