@@ -767,3 +767,38 @@ footer ul li {
 	float: left;
 	margin-right:20px;
 }
+
+/*--------------------------------------------------------------------------
+	
+	Contact Page
+
+--------------------------------------------------------------------------*/
+
+input, textarea {
+  font-size: 0.8em;
+  border: 1px solid #ddd;
+  background: #fff;
+  padding: 0.9em;
+  transition: all 0.3s ease-in-out;
+  width: 100%; 
+  margin-bottom: 20px;
+}
+  input:focus, textarea:focus {
+    border-color: #d2c1e0;
+    outline: none;
+    box-shadow: 0 0 5px 1px #d2c1e0; }
+
+.contact-form button {
+  font-weight: 600;
+  border: 2px solid #4a4a4a;
+  background: transparent;
+  padding: 10px 20px;
+  transition: all 0.3s ease-in-out;
+  color: #4a4a4a;
+  border-radius: 4px;
+  font-size: 17px;
+}
+
+
+
+
