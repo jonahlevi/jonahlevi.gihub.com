@@ -32,8 +32,7 @@ keywords: gia loose diamond sale, gia loose diamond online, gia certified diamon
 
 <div class="cta">
 	<div class="center">
-	<h2 class="cta-head">Get More for What You Pay</h2>
-<div class="cta-sub">Exceptional Diamonds at Exceptional Prices</div>
+	<h2 class="cta-head">Start getting more for your money today.</h2>
 <a class="cta-btn" href="/onboarding">Become a Client</a>
 </div>
 </div>
