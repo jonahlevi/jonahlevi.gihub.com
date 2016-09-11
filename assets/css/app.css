@@ -459,6 +459,11 @@ a.sub:hover {
 	padding-top: 70px;
 }
 
+.story a {
+	font-weight: 600;
+	border-bottom: 1px solid;
+}
+
 .story-background {
   background: #fafafa;
   color: #626262;
@@ -797,6 +802,10 @@ input, textarea {
   color: #4a4a4a;
   border-radius: 4px;
   font-size: 17px;
+}
+
+.sent-ok {
+	font-size: 100px;
 }
 
 

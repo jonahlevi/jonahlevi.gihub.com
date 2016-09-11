@@ -22,7 +22,7 @@ title: Contact Us &mdash; Jonah Levi Diamanten
 <input type="text" name="name" placeholder="Your name">
   <input type="email" name="email" placeholder="Your email">
   <textarea name="message" placeholder="Your message"></textarea>
-  <input type="hidden" name="_next" value="/email-thanks.html" />
+  <input type="hidden" name="_next" value="/email-sent" />
   <button type="submit">Send</button>
 </form>
 </div>
