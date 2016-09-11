@@ -616,6 +616,8 @@ a.cta-btn-on {
 
 span.sub {
 	color: #D3BFE2;
+	font-family: 'Cormorant Garamond', serif;
+	font-style: italic;
 }
 
 .tos {
@@ -623,8 +625,10 @@ span.sub {
 	color: #DFD8D2;
 } 
 
-.tos > a {
+.tos a {
 	color: #D3BFE2;
+	border: none;
+	font-weight: normal;
 }
 
 input#mce-EMAIL, input#mce-FNAME, input#mce-LNAME {
