@@ -263,6 +263,10 @@ a:hover {
   color: #d3bfe2;
 }
 
+.full-margin {
+	margin: 0 -9999%;
+}
+
 /*--------------------------------------------------------------------------
 	
 	Loading Screen
@@ -447,7 +451,7 @@ a.sub:hover {
 	line-height: 29px;
 }
 
-.story > p {
+.story p {
 	margin-bottom: 50px;
 }
 
@@ -479,16 +483,13 @@ a.sub:hover {
 	text-align: center;
 }
 
-h3.story-title {
-	font-size: 30px;
-	color: #D3BFE2;
-	margin-bottom: 15px;
-	font-weight: 400;
-	font-family: 'Cormorant Garamond', serif;
-	line-height: 35px;
+.story h3 {
 	text-align: center;
 }
 
+.story-margin {
+	margin-top: 30px;
+}
 /*--------------------------------------------------------------------------
 	
 	Legal
@@ -579,6 +580,7 @@ a.cta-btn {
 	padding: 10px;
 	border-radius: 4px;
 	color: #887596;
+	font-weight: normal;
 }
 
 a.cta-btn:hover {

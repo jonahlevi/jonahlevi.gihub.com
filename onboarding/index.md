@@ -43,7 +43,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 
 	<div class="one-half">
 <div class="signup center">
-<p>Get the highest value and service <br> <span class="sub">For Free—No Obligation!</span></p>
+<p>Get the highest value and service <br> <span class="sub">For Free&mdash;No Obligation!</span></p>
 
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
