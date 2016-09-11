@@ -23,21 +23,21 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 
 <div class="center">
 	<h2>Exceptional Diamonds for Our Clients</h2>
-<div class="sub-head">Always Find the Perfect Stone at a Price You Love</div>
+<div class="sub-head">Always find the perfect diamond with us</div>
 </div>
 
 <div class="one-half first">
 	<ul class="benefits">
-	<li>&#10004; Weekly up to <span class="highlight">200 fresh</span> diamonds</li>
-	<li>&#10004; All covered: <span class="highlight">Round and Fancy Cuts</span></li>
-	<li>&#10004; Weekly Sale: Up to <span class="highlight">65 Percent Discounted</span>!</li>
-	<li>&#10004; Incredibly Rare, <span class="highlight">Intense Fancy</span> Colors</li>
-	<li>&#10004; <span class="highlight">Convenient &amp; Secure</span> Payment Methods</li>
-	<li>&#10004; <span class="highlight">100 Percent</span> Insured Shipping</li>
-	<li>&#10004; Order by Mail or Phone <span class="highlight">24/7</span></li>
-	<li>&#10004; <span class="highlight">CanadaMark</span> and <span class="highlight">ForeverMark</span> Eligible </li>
-	<li>&#10004; HDR, IGI, and <span class="highlight">GIA Certified</span> Diamonds</li>
-	<li>&#10004; <span class="highlight">360° Full-HD clips</span> of our Diamonds</li>
+	<li><span class="icon-ok-circled green"></span> Weekly up to <span class="highlight">200 fresh</span> diamonds</li>
+	<li><span class="icon-ok-circled green"></span> All covered: <span class="highlight">Round and Fancy Cuts</span></li>
+	<li><span class="icon-ok-circled green"></span> Weekly Sale: Up to <span class="highlight">65 Percent Discounted</span>!</li>
+	<li><span class="icon-ok-circled green"></span> Incredibly Rare, <span class="highlight">Intense Fancy</span> Colors</li>
+	<li><span class="icon-ok-circled green"></span> <span class="highlight">Convenient &amp; Secure</span> Payment Methods</li>
+	<li><span class="icon-ok-circled green"></span> <span class="highlight">100 Percent</span> Insured Shipping</li>
+	<li><span class="icon-ok-circled green"></span> Order by Mail or Phone <span class="highlight">24/7</span></li>
+	<li><span class="icon-ok-circled green"></span> <span class="highlight">CanadaMark</span> and <span class="highlight">ForeverMark</span> Eligible </li>
+	<li><span class="icon-ok-circled green"></span> HDR, IGI, and <span class="highlight">GIA Certified</span> Diamonds</li>
+	<li><span class="icon-ok-circled green"></span> <span class="highlight">360° Full-HD clips</span> of our Diamonds</li>
 	</ul>
 	</div>
 
@@ -88,7 +88,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 
 <div class="center">
 	<h2>Frequently Asked Questions</h2>
-<div class="sub-head">Find all the answers</div>
+<div class="sub-head">These are the answers you were looking for</div>
 </div>
 
 <div class="row cf">
@@ -162,8 +162,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 </div>
 <div class="cta">
 	<div class="center">
-	<h2 class="cta-head">Get More for What You Pay</h2>
-<div class="cta-sub">Exceptional Diamonds at Exceptional Prices</div>
+	<h2 class="cta-head">Start getting more for your money today.</h2>
 <a class="cta-btn to-cta" href="#">Become a Client</a>
 </div>
 </div>
