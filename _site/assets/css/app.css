@@ -394,6 +394,7 @@ p.sub {
 
 .border {
     border: 2px solid #9b89a9!important;
+    font-weight: normal!important;
     padding: 10px;
     border-radius: 5px;
     -o-transition: .25s;
@@ -744,7 +745,7 @@ ul li.donts {
 
 --------------------------------------------------------------------------*/
 footer {
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 	margin-top: 60px;
 	font-size: 15px;
 	line-height: 28px;
