@@ -7,17 +7,18 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 
 <section class="story-background cf">
 <img title="Wholesale Diamonds Online with Low Buy Prices" alt="Jonah Levi Diamanten offers Wholesale Gia certified Diamonds Online" src="{{ site.baseurl }}assets/images/about-top.jpg">
-	<div class="story cf">
+
+<div class="story cf">
 	
 
-<div class="onboard-message">
-<p>Congratulations on your decision!</p>
+	<div class="onboard-message">
+	<p>Welcome to the source of superior diamonds!</p>
 
-<p>Whether you are a goldsmith, a jeweler, an asset manager, or an individual who is looking for the perfect diamond&mdash;Being part of the Jonah Levi culture is the straight path to achieving your goals.</p>
+	<p>Whether you are a goldsmith, a jeweler, an asset manager, or an individual who is looking for the perfect diamond&mdash;Being part of the Jonah Levi culture is the straight path to achieving your goals.</p>
 
-<p>We are excited to offer you a rich variety of astonishing diamonds at pleasant prices that will amaze your customers and you alike.</p>
+	<p>We are excited to offer you a rich variety of astonishing diamonds at pleasant prices that will amaze your customers and you alike.</p>
 
-</div>
+	</div>
 
 <div class="cf" id="cta">
 
@@ -41,52 +42,54 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 	</ul>
 	</div>
 
-	<div class="one-half">
-<div class="signup center">
-<p>Get the highest value and service <br> <span class="sub">For Free&mdash;No Obligation!</span></p>
+<div class="one-half">
+	<div class="signup center">
+	<p>Get the highest value and service <br> <span class="sub">For Free&mdash;No Obligation!</span></p>
 
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="//jonahlevi.us14.list-manage.com/subscribe/post?u=8c3e1adc439079e6d7b793910&amp;id=845c330719" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	
-<div class="mc-field-group">
-	<input type="email" placeholder="Your Email" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-	<input type="text" placeholder="Your First Name" name="FNAME" class="required" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-	<input type="text" placeholder="Your Last Name" name="LNAME" class="required" id="mce-LNAME">
-</div>
+	<!-- Begin MailChimp Signup Form -->
+	<div id="mc_embed_signup">
+	<form action="//jonahlevi.us14.list-manage.com/subscribe/post?u=8c3e1adc439079e6d7b793910&amp;id=845c330719" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	    <div id="mc_embed_signup_scroll">
+		
+	<div class="mc-field-group">
+		<input type="email" placeholder="Your Email" name="EMAIL" class="required email" id="mce-EMAIL">
+	</div>
+	<div class="mc-field-group">
+		<input type="text" placeholder="Your First Name" name="FNAME" class="required" id="mce-FNAME">
+	</div>
+	<div class="mc-field-group">
+		<input type="text" placeholder="Your Last Name" name="LNAME" class="required" id="mce-LNAME">
+	</div>
 	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8c3e1adc439079e6d7b793910_845c330719" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Get the Deeply Discounted List" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
-
-<div class="tos">By proceeding you agree to our <a href="/legal">Terms of Service</a></div>
-</div>
-
+			<div class="response" id="mce-error-response" style="display:none"></div>
+			<div class="response" id="mce-success-response" style="display:none"></div>
+		</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+	    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8c3e1adc439079e6d7b793910_845c330719" tabindex="-1" value=""></div>
+	    <div class="clear"><input type="submit" value="Get the Deeply Discounted List" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+	    </div>
+	</form>
 	</div>
 
+	<!--End mc_embed_signup-->
 
+	<div class="tos">By proceeding you agree to our <a href="/legal">Terms of Service</a></div>
 	</div>
+
+</div>
+
+
+</div>
 
 <div class="partner">
-
 	<div class="partner-list cf">
 		<div class="center"><img src="{{ site.baseurl }}assets/images/partners.png"></div>
 	</div>
 </div>
+</div>
+</section>
 
-<div class="center">
+<section class="story white-bg">
+	<div class="center">
 	<h2>Frequently Asked Questions</h2>
 <div class="sub-head">These are the answers you were looking for</div>
 </div>
@@ -160,7 +163,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 </div>
 
 </div>
-<div class="cta">
+<div class="cta full-margin">
 	<div class="center">
 	<h2 class="cta-head">Start getting more for your money today.</h2>
 <a class="cta-btn to-cta" href="#">Become a Client</a>
