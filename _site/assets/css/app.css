@@ -272,6 +272,28 @@ a:hover {
 	margin: 0 -9999%;
 }
 
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
 /*--------------------------------------------------------------------------
 	
 	Loading Screen
@@ -818,5 +840,76 @@ input, textarea {
 }
 
 
+/*--------------------------------------------------------------------------
+	
+	Landing Page
 
+--------------------------------------------------------------------------*/
 
+.typed {
+	color: #fafafa;
+}
+
+.landingpage {
+	margin-top: 70px;
+	padding: 100px 0 140px 0;
+}
+
+.landingpage h1 {
+	font-family: 'Didact Gothic';
+	line-height: 52px;
+	font-size: 40px;
+}
+
+.landingpage h2 {
+	font-family: 'Didact Gothic';
+	line-height: 35px;
+	font-size: 25px;
+	padding-top: 25px;
+}
+
+.landingpage .tos {
+	font-size: 12px;
+}
+
+.landingpage input#mc-embedded-subscribe {
+	font-size: 15px;
+}
+
+.fillWidth {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  position: absolute;
+  z-index: 0;
+  bottom: 0;
+  display: inline-block;
+  vertical-align: baseline;
+  background-size: cover;
+    overflow: hidden;
+}
+
+.video-container {
+  position: absolute;
+  top: 125px;
+  left: 0;
+  height: 700px;
+  width: 100%;
+  overflow: hidden;
+  background: #000;
+  z-index: -1;
+}
+
+.filter	{
+	background: rgba(211,191,226,.7);
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 2;
+}
+
+.anti-spam {
+	font-size: 12px;
+	margin-top: -11px; 
+}
