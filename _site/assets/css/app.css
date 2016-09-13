@@ -896,6 +896,7 @@ input, textarea {
   left: 0;
   height: 700px;
   width: 100%;
+  min-width: 1024px;
   overflow: hidden;
   background: #000;
   z-index: -1;
