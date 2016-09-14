@@ -37,4 +37,5 @@ keywords: gia loose diamond sale, gia loose diamond online, gia certified diamon
 <a class="cta-btn" href="/onboarding">Become a Client</a>
 </div>
 </div>
+<div class="dummy"></div>
 </section>

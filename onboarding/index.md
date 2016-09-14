@@ -29,16 +29,16 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 
 <div class="one-half first">
 	<ul class="benefits">
+	<li><span class="icon-ok-circled green"></span> <span class="highlight">360° Full-HD clips</span> of our diamonds</li>
+	<li><span class="icon-ok-circled green"></span> HDR, IGI, and <span class="highlight">GIA Certified</span> siamonds</li>
+	<li><span class="icon-ok-circled green"></span> Weekly Sale: Up to <span class="highlight">65 Percent Discounted</span>!</li>
 	<li><span class="icon-ok-circled green"></span> Weekly up to <span class="highlight">200 fresh</span> diamonds</li>
 	<li><span class="icon-ok-circled green"></span> All covered: <span class="highlight">Round and Fancy Cuts</span></li>
-	<li><span class="icon-ok-circled green"></span> Weekly Sale: Up to <span class="highlight">65 Percent Discounted</span>!</li>
 	<li><span class="icon-ok-circled green"></span> Incredibly Rare, <span class="highlight">Intense Fancy</span> Colors</li>
 	<li><span class="icon-ok-circled green"></span> <span class="highlight">Convenient &amp; Secure</span> Payment Methods</li>
 	<li><span class="icon-ok-circled green"></span> <span class="highlight">100 Percent</span> Insured Shipping</li>
 	<li><span class="icon-ok-circled green"></span> Order by Mail or Phone <span class="highlight">24/7</span></li>
 	<li><span class="icon-ok-circled green"></span> <span class="highlight">CanadaMark</span> and <span class="highlight">ForeverMark</span> Eligible </li>
-	<li><span class="icon-ok-circled green"></span> HDR, IGI, and <span class="highlight">GIA Certified</span> Diamonds</li>
-	<li><span class="icon-ok-circled green"></span> <span class="highlight">360° Full-HD clips</span> of our Diamonds</li>
 	</ul>
 	</div>
 
@@ -83,11 +83,13 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 </div>
 </section>
 
-<div class="partner">
+<div class="partner full-margin">
 	<div class="partner-list cf">
 		<div class="center"><img src="{{ site.baseurl }}assets/images/partners.png"></div>
 	</div>
 </div>
+
+<div class="dummy"></div>
 
 <section class="story white-bg">
 	<div class="center">
@@ -169,4 +171,5 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 <a class="cta-btn to-cta" href="#">Become a Client</a>
 </div>
 </div>
+<div class="dummy"></div>
 </section>

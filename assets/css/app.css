@@ -212,6 +212,7 @@ p {
 
 .white-bg {
 	background: #fff;
+	padding-top: 120px!important;
 }
 
 body {
@@ -269,7 +270,13 @@ a:hover {
 }
 
 .full-margin {
-	margin: 0 -9999%;
+	position: absolute;
+	left: 0;
+	width: 100%;
+}
+
+.dummy {
+	height: 250px;
 }
 
 .typed-cursor{
@@ -584,7 +591,7 @@ ul.benefits li {
 
 .partner {
     background: #d3bfe2;
-    margin: 100px -9999% 0 -9999%;
+    margin: 100px 0;
     padding: 30px 0;
     color: #ffffff;
 }
