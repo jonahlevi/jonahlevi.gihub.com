@@ -273,6 +273,7 @@ a:hover {
 	position: absolute;
 	left: 0;
 	width: 100%;
+	min-width: 1024px;
 }
 
 .dummy {
@@ -351,6 +352,7 @@ img.logo-loading {
 	margin-top: 0px;
 	height: 52px;
 	width: 100%;
+	min-width: 1024px;
 	overflow: hidden;
 	margin-top: -52px;
 	background: #8D9FC5;
