@@ -12,19 +12,19 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 	
 
 	<div class="onboard-message">
-	<p>Welcome to the source of superior diamonds!</p>
+	<p>Fact: 67 percent of diamond buyers overpay. We make sure you don't.</p>
 
-	<p>Whether you are a goldsmith, a jeweler, an asset manager, or an individual who is looking for the perfect diamond&mdash;Being part of the Jonah Levi culture is the straight path to achieving your goals.</p>
+	<p>Whether you are a goldsmith, a jeweler, an asset manager, or a diamond business&mdash;Being part of the Jonah Levi culture is the proven path to making your business more profitable and get results.</p>
 
-	<p>We are excited to offer you a rich variety of astonishing diamonds at pleasant prices that will amaze your customers and you alike.</p>
+	<p>We are excited to offer you a rich variety of astonishing diamonds, that will amaze your customers and making sure that you never overpay again.</p>
 
 	</div>
 
 <div class="cf" id="cta">
 
 <div class="center">
-	<h2>Exceptional Diamonds for Our Clients</h2>
-<div class="sub-head">Always find the perfect diamond with us</div>
+	<h2>Trusted by Smart Businesses</h2>
+<div class="sub-head">Guaranteed find the perfect diamond with us</div>
 </div>
 
 <div class="one-half first">
@@ -80,13 +80,14 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 
 </div>
 
+</div>
+</section>
+
 <div class="partner">
 	<div class="partner-list cf">
 		<div class="center"><img src="{{ site.baseurl }}assets/images/partners.png"></div>
 	</div>
 </div>
-</div>
-</section>
 
 <section class="story white-bg">
 	<div class="center">
