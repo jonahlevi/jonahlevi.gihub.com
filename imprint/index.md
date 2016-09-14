@@ -22,6 +22,11 @@ E: office@jonahlevi.co<br>
 </p>
 
 <p>
+	<span class="bold">VAT ID Number:</span><br>
+	DE307704723
+</p>
+
+<p>
 	<span class="bold">Register Court and Number:</span><br>
 	District Court of Ulm at HRA 725048
 </p>
