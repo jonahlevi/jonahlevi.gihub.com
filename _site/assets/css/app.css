@@ -668,12 +668,12 @@ span.sub {
 
 .tos {
 	font-size: 15px;
-	color: #DFD8D2;
+	color: #808080;
 } 
 
 .tos a {
-	color: #D3BFE2;
-	border: none;
+	color: #808080;
+	border-bottom: 1px solid;
 	font-weight: normal;
 }
 
