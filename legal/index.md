@@ -16,7 +16,7 @@ layout: page
 	<p>Also, if we get into a dispute, we will have to figure it out in arbitration. Review Section 17 for more details.</p>
 	</div>
 </div>
-<div class="one-half-legal fine-print">
+<div class="one-half-legal fine-print justify">
 <h3>Introduction</h3>
 	<p>Jonah Levi Diamanten Ltd. &amp; Co. KG ("Jonah Levi") provides its Services subject to the terms and conditions in this Terms of Service (“Terms" or “Agreement"). When we refer to our “Services" in these Terms, we mean to include all of our services -- our platform services, which includes all of our programs, features, functions, instructions, or software provided to you in connection with your use of our services.</p>
 
@@ -26,7 +26,7 @@ layout: page
 <div class="one-half-legal first">
 	<p class="easy">These terms might change. But we will send you an email and let you know before we make any significant changes that impact you or your use of our services. If you keep using Jonah Levi after the terms change, then you have accepted those changes.</p>
 </div>
-<div class="one-half-legal fine-print">
+<div class="one-half-legal fine-print justify">
 <h3>Changes to These Terms</h3>
 	We may revise these Terms from time to time. If we do, those revised Terms will supersede prior versions. Unless we say otherwise, revisions will be effective upon the effective date indicated at the top of these Terms. We will provide you advance notice of any material revisions. This notice will be provided via the account portal and/or via an email to the email address we have on file. For other revisions, we will update the effective date of these Terms at the top of the page. We encourage you to check the effective date of these Terms whenever you visit Jonah Levi's website or account portal. Your continued access or use of our Services constitutes your acceptance of any revisions. If you don’t agree to the revisions, you should stop using Jonah Levi's Services and we are not obligated to provide you with the Services.
 </div>
@@ -34,7 +34,7 @@ layout: page
 <div class="one-half-legal first">
 	<p class="easy">What is ours is ours. If you like to use anything you find on our website, please ask us beforehand.</p>
 </div>
-<div class="one-half-legal fine-print">
+<div class="one-half-legal fine-print justify">
 <h3>Intellectual Property</h3>
 <p>All Content, including text, graphics, button icons, images, audio clips, and software belongs exclusively to Levi Holding Ltd. and its partners. The collection, arrangement, and assembly of all Content on this Site belongs exclusively to Levi Holding Ltd. or its affiliates. Our logos, slogans, trade names or words are registered trademarks, trademarks or service marks of Levi Holding Ltd. The use of any of our trademarks or service marks without our express written consent is strictly prohibited. You may not use our trademarks or service marks in connection with any product or service in any way that is likely to cause confusion. You may not use our trademarks or service marks in any manner that disparages or discredits us. You may not use any of our trademarks or service marks in meta tags without prior explicit consent.</p>
 </div>
@@ -47,7 +47,7 @@ layout: page
 		<p>You can reject cookies but you will miss on some parts of our services.</p>
 	</div>
 </div>
-<div class="one-half-legal fine-print">
+<div class="one-half-legal fine-print justify">
 <h3>Our Use of Customer Data</h3>
 <p>You acknowledge that you have read Jonah Levi's Privacy Policy and understand that it sets forth how we will collect, store, and use your Customer Data. “Customer Data" consists of information made available to us through your use of our Services under these Terms, which includes information such as your name, contact information, billing records, call or messaging logs, and traffic routing information, as well as the content of communications sent through or integrated with our Services, such as audio recordings, message bodies, and call recording transcriptions. If you do not agree to Jonah Levi's Privacy Policy, you must stop using our Services.</p>
 
@@ -63,7 +63,7 @@ layout: page
 <p>Generally speaking, we are not going to owe you for any bad things that might indirectly result from doing business with us, like lost business.</p>
 	</div>
 </div>
-<div class="one-half-legal fine-print">
+<div class="one-half-legal fine-print justify">
 <h3>Disclaimer of Liability</h3>
 
 <p>Except as otherwise provided in the standard terms of sale that govern the sale of each product of Jonah Levi, the products offered for sale by Jonah Levi or its partners and the transactions conducted through it are provided by us on an “as is” basis. We make no representations or warranties of any kind, express or implied, as to the operation of the Site or the information, content, materials, or products included on this Site. To the full extent permissible by applicable law, we disclaim all warranties, express or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose, non-infringement, title, quiet enjoyment, data accuracy and system integration. This Site may include inaccuracies, mistakes or typographical errors. We do not warrant that the content will be uninterrupted or error free. </p>
@@ -85,7 +85,7 @@ We both will be responsible for our own employees.</p>
 <p>If one of us can not keep our promises because something beyond our control happens (think earthquake, massive power outage, war), then that does not count as a breach of these terms.</p>
 	</div>
 </div>
-<div class="one-half-legal fine-print">
+<div class="one-half-legal fine-print justify">
 <h3>General</h3>
 
 <p>Both you and Jonah Levi will comply with the applicable law relating to each of our respective activities under these Terms, including privacy and data protection laws and applicable rules established by the Federal Communications Commission. </p>

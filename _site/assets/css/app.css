@@ -1,4 +1,4 @@
-@import 'https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,400i,600|Didact+Gothic';
+@import 'https://fonts.googleapis.com/css?family=Lato:300:400:700|Playfair+Display:400,400i';
 
 /* Fontello */
 
@@ -202,6 +202,10 @@ p {
 	text-align: center;
 }
 
+.justify {
+	text-align: justify;
+}
+
 .light {
 	color: #8e9aa3;
 }
@@ -216,7 +220,7 @@ p {
 }
 
 body {
-	font-family: 'Didact Gothic';
+	font-family: 'Lato';
 	color: #625f68;
 	font-size: 19px;
 	line-height: 31px;
@@ -225,7 +229,7 @@ body {
 }
 
 h1, h2, h3, h5 {
-	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Playfair Display', serif;
 }
 
 h1 {
@@ -240,6 +244,7 @@ h2 {
 h3 {
   font-size: 40px;
   margin: 40px 0 20px 0;
+  line-height: 50px;
 }
 
 h4 {
@@ -248,7 +253,7 @@ h4 {
 
 h5 {
 	font-size: 25px;
-	color: #36353a;
+	color: #545454;
 	margin-bottom: 15px;
 	font-weight: 400;
 	line-height: 35px;
@@ -386,7 +391,7 @@ img.logo-loading {
 
 .lilac {
 	background: #d3bfe2;
-	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Playfair Display', serif;
 	color: #67655c;
 	text-align: center;
 	padding: 30px 0;
@@ -410,7 +415,7 @@ div.divider {
 }
 
 p.sub {
-	font-family: 'Didact Gothic';
+	font-family: 'Lato';
 	margin-bottom: 0;
 }
 
@@ -570,6 +575,7 @@ a.sub:hover {
 
 ul.benefits {
 	margin-top: 12px;
+	font-size: 19px;
 }
 
 ul.benefits li {
@@ -586,7 +592,7 @@ ul.benefits li {
 	color: #8e9aa3;
 	font-size: 24px;
 	padding: 15px 0 40px 0;
-	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Playfair Display', serif;
 	font-style: italic;
 
 }
@@ -656,7 +662,7 @@ a.cta-btn-on {
 
 span.sub {
 	color: #D3BFE2;
-	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Playfair Display', serif;
 	font-style: italic;
 }
 
@@ -668,6 +674,17 @@ span.sub {
 .tos a {
 	color: #D3BFE2;
 	border: none;
+	font-weight: normal;
+}
+
+.tos-lander {
+	font-size: 12px;
+	color: #808080;
+}
+
+.tos-lander a {
+	color: #808080;
+	border-bottom: 1px solid;
 	font-weight: normal;
 }
 
@@ -862,6 +879,7 @@ input, textarea {
 
 .typed {
 	border-bottom: 3px solid #C9A2E7;
+	font-weight: 700;
 }
 
 .landingpage {
@@ -870,13 +888,13 @@ input, textarea {
 }
 
 .landingpage h1 {
-	font-family: 'Didact Gothic';
+	font-family: 'Lato';
 	line-height: 52px;
 	font-size: 40px;
 }
 
 .landingpage h2 {
-	font-family: 'Didact Gothic';
+	font-family: 'Lato';
 	line-height: 35px;
 	font-size: 25px;
 	padding-top: 25px;
