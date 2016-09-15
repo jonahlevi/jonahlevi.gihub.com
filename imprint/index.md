@@ -11,7 +11,8 @@ keywords: buy gia certified diamonds, buy diamonds online, wholesale diamonds on
 <div class="fine-print">
 	
 
-
+<div class="one-half first">
+	
 <p>
 <span class="bold">Company Details:</span><br>
 Jonah Levi Diamanten Ltd. &amp; Co. KG<br>
@@ -47,13 +48,16 @@ United Kingdom
 <span class="bold">Director:</span><br> 
 Mr. Jonah Wiaderny
 </p>
+</div>
 
-<p>
+<div class="one-half">
+	<p class="justify">
 	<span class="bold">Disclaimer of Liability</span><br> 
 	We make every effort to keep the information on our Web site current, but accept no liability whatsoever for the content provided. Pursuant to §7 par. 1 of TMG (German Tele-Media Act), the law limits our responsibility as a service provider to our own content on these Web pages.
 According to §§8 to 10 of TMG, we are not obligated to monitor third party information provided or stored on our Web site. However, we shall promptly remove any content upon becoming aware that it violates the law. Our liability in such an instance shall commence at the time we become aware of the respective violation.
 The content and works provided on these Web pages are governed by the copyright laws of Germany. Duplication, processing, distribution, or any form of commercialization of such material beyond the scope of the copyright law shall require the prior written consent of its respective author or creator.
 </p>
+</div>
 </div>
 </div>
 </section>
