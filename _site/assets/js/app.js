@@ -67,8 +67,8 @@ $("a.to-cta").click( function() {
 /*-----------------------------------------------------------------------------------*/
   $(function(){
       $(".typed").typed({
-        strings: ["jewelry business", "goldsmith business", 
-        		  "designer business", "diamond business"],
+        strings: ["jewelers", "goldsmiths", 
+        		  "designers", "retailers", "you"],
         typeSpeed: 40,
         loop: false,
         backSpeed: 20,

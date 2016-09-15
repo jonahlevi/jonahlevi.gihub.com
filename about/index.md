@@ -8,7 +8,7 @@ keywords: gia loose diamond sale, gia loose diamond online, gia certified diamon
 <section class="story-margin cf">
 <div class="center"><img alt="Jonah Levi Diamanten is offering GIA certified loose diamonds for sale online" title="Buy GIA certified loose diamonds online for wholesale" src="{{ site.baseurl }}assets/images/about-page.jpg"></div>
 
-<div class="story cf">
+<div class="story cf center">
 	
 	<p>
 	Acquiring diamonds. A very sensitive task, and the acquisition bears virtue and substance. Jonah Levi delivers exquisite natural diamonds to make every single of these significant moments worthwhile. As the stone is set into the jewelry, it marks the beginning of a venture. The sparkle you see, the excellence you immediately comprehend, and the affirmative smile your customers give&mdash;it all becomes a pleasurable ritual with diamonds from Jonah Levi.
