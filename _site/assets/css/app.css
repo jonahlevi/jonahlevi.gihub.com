@@ -701,8 +701,8 @@ input#mce-EMAIL, input#mce-FNAME, input#mce-LNAME {
 
 input#mc-embedded-subscribe {
     border: 0;
-    color: #3E3C3B;
-    background: #D3BFE2;
+    color: #334534;
+    background: #80BE84;
     font-size: 17px;
     padding: 12px 20px;
     border-radius: 4px;
