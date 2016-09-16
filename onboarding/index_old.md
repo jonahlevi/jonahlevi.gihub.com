@@ -5,77 +5,51 @@ title: Wholesale Diamonds Online — Get the Popular List Now!
 keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale diamonds, buy wholesale diamonds online
 ---
 
-<section class="cf">
-<div class="story-wide cf">
+<section class="story-background cf">
+<img title="Wholesale Diamonds Online with Low Buy Prices" alt="Jonah Levi Diamanten offers Wholesale Gia certified Diamonds Online" src="{{ site.baseurl }}assets/images/about-top.jpg">
 
-<div class="cf" id="cta">
+<div class="story cf">
+	
 
-<div class="story">
-	<div class="center">
-	<h2>Trusted by Successful Businesses</h2>
-<div class="sub-head">Guaranteed find the perfect diamond with us</div>
-</div>
-
-<div class="onboard-message">
+	<div class="onboard-message">
 	<p>Did you know that 67 percent of diamond buyers overpay? We make sure you don't.</p>
 
 	<p>Whether you are a goldsmith, a jeweler, an asset manager, or a diamond business&mdash;Being part of the Jonah Levi culture is the proven path to making your business more profitable and get results.</p>
+
+	<p>We are excited to offer you a rich variety of astonishing diamonds, that will amaze your customers and making sure that you never overpay again.</p>
 
 	<p>
 		Just fill out the convenient contact form and start getting exclusive offers and rebates!
 	</p>
 
 	</div>
+
+<div class="cf" id="cta">
+
+<div class="center">
+	<h2>Trusted by Smart Businesses</h2>
+<div class="sub-head">Guaranteed find the perfect diamond with us</div>
 </div>
 
-<div class="two-thirds first">
-<h4>Satisfaction Guaranteed&mdash;Every Time.</h4>
+<div class="one-half first">
 	<ul class="benefits">
-
-	<li>
-	<div class="icon-ok-circled green"></div>
-	<span class="lead">Examine diamonds in-depth before buying</span><br>
-	Our clients enjoy <span class="highlight">360° Full HD clips</span> of diamonds they are interested in  before they buy. They can thoroughly inspect and examine just as they would in real life without leaving their office. They also get a <span class="highlight">20x magnification</span> image and where applicable the Hearts and Arrows file of their stone.
-	</li>
-
-	<li>
-	<div class="icon-ok-circled green"></div>
-	<span class="lead">Trusted and reputable grading institutions</span><br>
-	We offer only diamonds which are certified by trustworthy and established institutions, such as <a href="http://www.gia.edu/" target="_blank">GIA</a>, <a href="http://www.hrdantwerp.com/en/home" target="_blank">HRD Antwerp</a>, and <a href="http://www.igiworldwide.com/" target="_blank">IGI</a>. Thus making sure, that you know what you get. Each time.
-	</li>
-
-	<li>
-	<div class="icon-ok-circled green"></div>
-	<span class="lead">Don't pay more than you should</span><br>
-	We are having weekly sales where we offer <a href="http://www.gia.edu/" target="_blank">GIA certified</a> diamonds at tremendous, unbeatable <span class="highlight">discounts of up to 65% against Rapaport</span>. 
-	</li>
-
-	<li>
-	<div class="icon-ok-circled green"></div>
-	<span class="lead">A rich variety and functional and rare stock</span><br>
-	Whether you are looking to buy small mêlée diamonds for your pavé settings or prestige statement stones, we can service you with over 200 freshly cut and certified diamonds each week, from round to fancy cuts alike. And don't forget incredibly rare intense fancy diamonds&mdash;we have those as well.
-	</li>
-
-	<li>
-	<div class="icon-ok-circled green"></div>
-	<span class="lead">Enjoy full protection and total security</span><br>
-	We only use convenient and secure payment methods and your diamonds are <span class="highlight">guaranteed 100% insured and safe</span> with our world-class logistic partners. You are in control.
-	</li>
-
-
-	<div class="hidden">
-
+	<li><span class="icon-ok-circled green"></span> <span class="highlight">360° Full-HD clips</span> of our diamonds</li>
+	<li><span class="icon-ok-circled green"></span> HDR, IGI, and <span class="highlight">GIA Certified</span> siamonds</li>
+	<li><span class="icon-ok-circled green"></span> Weekly Sale: Up to <span class="highlight">65 Percent Discounted</span>!</li>
+	<li><span class="icon-ok-circled green"></span> Weekly up to <span class="highlight">200 fresh</span> diamonds</li>
+	<li><span class="icon-ok-circled green"></span> All covered: <span class="highlight">Round and Fancy Cuts</span></li>
+	<li><span class="icon-ok-circled green"></span> Incredibly Rare, <span class="highlight">Intense Fancy</span> Colors</li>
 	<li><span class="icon-ok-circled green"></span> <span class="highlight">Convenient &amp; Secure</span> Payment Methods</li>
-	<li><span class="icon-ok-circled green"></span> <span class="highlight">100%</span> Insured Shipping</li>
+	<li><span class="icon-ok-circled green"></span> <span class="highlight">100 Percent</span> Insured Shipping</li>
+	<li><span class="icon-ok-circled green"></span> Order by Mail or Phone <span class="highlight">24/7</span></li>
 	<li><span class="icon-ok-circled green"></span> <span class="highlight">CanadaMark</span> and <span class="highlight">ForeverMark</span> Eligible </li>
-	</div>
 	</ul>
 	</div>
 
-<div class="one-third">
+<div class="one-half">
 	<div class="signup center">
-	<p class="signup-paragraph">Can you afford not to buy with us? <br> <span class="sub">Don't miss out!</span></p>
-	<div class="triangle"></div>
+	<p>Can you afford not to buy with us? <br> <span class="sub">Masterpieces at affordable prices</span></p>
+
 	<!-- Begin MailChimp Signup Form -->
 	<div id="mc_embed_signup">
 	<form action="//jonahlevi.us14.list-manage.com/subscribe/post?u=8c3e1adc439079e6d7b793910&amp;id=845c330719" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -102,7 +76,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 
 	<!--End mc_embed_signup-->
 
-	<div class="tos-lander">By proceeding you agree to our <a href="/legal">Terms of Service</a></div>
+	<div class="tos">By proceeding you agree to our <a href="/legal">Terms of Service</a></div>
 	</div>
 
 </div>
