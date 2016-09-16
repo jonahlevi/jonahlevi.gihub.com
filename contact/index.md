@@ -35,3 +35,4 @@ title: Contact Us &mdash; Jonah Levi Diamanten
 
 </div>
 </section>
+<div class="footer-border"></div>

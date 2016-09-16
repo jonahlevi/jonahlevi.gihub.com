@@ -108,8 +108,9 @@ keywords: jonah levi, jonah levi diamanten, diamonds, wholesale diamonds, buy gi
 	</div>
 </div>
 <div class="cf"></div>
-
-
 </div>
+
 </section>
+<div class="footer-border"></div>
+
 

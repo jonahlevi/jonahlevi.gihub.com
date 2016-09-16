@@ -47,3 +47,4 @@ In order to provide you with a great experience on this site we provide the func
 </div>
 </div>
 </section>
+<div class="footer-border"></div>

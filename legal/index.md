@@ -103,5 +103,6 @@ We both will be responsible for our own employees.</p>
 </div>
 
 
-	</div>
+</div>
 </section>
+<div class="footer-border"></div>
