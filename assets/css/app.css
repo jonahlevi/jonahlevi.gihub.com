@@ -968,6 +968,11 @@ input, textarea {
 
 .landingpage input#mc-embedded-subscribe {
 	font-size: 15px;
+	cursor: pointer;
+}
+
+.landingpage input#mc-embedded-subscribe:hover {
+	background: #8DCF91;
 }
 
 .fillWidth {
