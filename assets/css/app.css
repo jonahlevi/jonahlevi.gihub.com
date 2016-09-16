@@ -500,6 +500,11 @@ a.sub:hover {
 	line-height: 29px;
 }
 
+.prelude {
+	font-size: 23px;
+	color: #999;
+}
+
 .story {
 	line-height: 33px;
 	font-size: 20px;
