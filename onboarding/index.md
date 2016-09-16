@@ -35,7 +35,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 	<li>
 	<div class="icon-ok-circled green"></div>
 	<span class="lead">Examine diamonds in-depth before buying</span><br>
-	Our clients enjoy <span class="highlight">360° Full HD clips</span> of diamonds they are interested in  before they buy. They can thoroughly inspect and examine just as they would in real life without leaving their office. They also get a <span class="highlight">20x magnification</span> image and where applicable the Hearts and Arrows file of their stone.
+	Our clients enjoy <span class="highlight">360° Full HD clips</span> of diamonds they are interested in  before they buy. They can thoroughly inspect and examine just as they would in real life without leaving their office. They also get a <span class="highlight">20x magnification</span> image and the Hearts and Arrows file of their stone. <a href="/assets/sample-files.zip">Download a sample .zip</a> to have a look at what you will get before buying from us.
 	</li>
 
 	<li>
