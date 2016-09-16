@@ -115,7 +115,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 <div class="row cf">
 	<div class="one-half-faq first">
 		<h5>Which diamonds are you offering?</h5>
-		<p>We are servicing our clients with natural, polished, certified and uncertified diamonds. Where we deal with certified diamonds, we offer GIA, HRD, and IGI Certificates. We also offer diamonds that are CanadaMark and ForeverMark eligible. We also engage in dealing with fancies.</p>
+		<p>We are servicing our clients with natural, polished, certified and uncertified diamonds. Where we deal with certified diamonds, we offer <a href="http://www.gia.edu/" target="_blank">GIA</a>, <a href="http://www.hrdantwerp.com/en/home" target="_blank">HRD Antwerp</a>, and <a href="http://www.igiworldwide.com/" target="_blank">IGI Certificates</a>. We also offer diamonds that are <a href="http://www.canadamark.com/" target="_blank">CanadaMark</a> and <a href="https://www.forevermark.com/">ForeverMark</a> eligible. We also engage in dealing with fancies.</p>
 	</div> 
 	<div class="one-half-faq">
 		<h5>Is it safe to order from Jonah Levi?</h5>
@@ -130,7 +130,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 	</div> 
 	<div class="one-half-faq">
 		<h5>What are the payment methods?</h5>
-		<p>We preferably offer wire transfer, but also accept PayPal for new clients, and all Visa and MasterCard credit cards. Please note, that other payment methods as wire transfer may delay your order.</p>
+		<p>We preferably offer wire transfer, but also accept <a href="https://www.paypal.com" target="_blank">PayPal</a> for new clients, and all Visa and MasterCard credit cards. Please note, that other payment methods as wire transfer may delay your order.</p>
 		<p>Please also note, that we do accept orders on consignment only on a case by case basis after five transactions.</p>
 	</div> 
 </div>
@@ -172,7 +172,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 <div class="cta full-margin">
 	<div class="center">
 	<h2 class="cta-head">Don't miss this opportunity!</h2>
-	<div class="sub-head">Start getting suberb diamonds inexpensively today</div>
+	<div class="sub-head">Start getting superb diamonds inexpensively today</div>
 <a class="cta-btn to-cta" href="#">Yes, I want extra savings</a>
 </div>
 </div>
