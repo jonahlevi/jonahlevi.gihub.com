@@ -488,8 +488,10 @@ p.sub {
 }
 
 .prelude {
-	font-size: 23px;
-	color: #999;
+  font-size: 23px;
+  color: #999;
+  border-bottom: 1px solid #ECECEC;
+  padding-bottom: 60px;
 }
 
 .story {
@@ -1040,4 +1042,8 @@ input, textarea {
 .arrow {
   position: relative;
   right: -521px;
-  top: -60px;
+  top: -40px;
+  -moz-transform: rotate(7deg);
+  -ms-transform: rotate(7deg);
+  -o-transform: rotate(7deg);
+  -webkit-transform: rotate(7deg);
