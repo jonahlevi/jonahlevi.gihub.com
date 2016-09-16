@@ -33,9 +33,10 @@ keywords: gia loose diamond sale, gia loose diamond online, gia certified diamon
 
 <div class="cta full-margin">
 	<div class="center">
-	<h2 class="cta-head">Start getting more for your money today.</h2>
-<a class="cta-btn" href="/onboarding">Become a Client</a>
+	<h2 class="cta-head">Don't wait any longer!</h2>
+	<div class="sub-head">Start getting suberb diamonds inexpensively today</div>
+<a class="cta-btn" href="/onboarding">Yes, I want big discounts!</a>
 </div>
 </div>
-<div class="dummy"></div>
+<div class="dummy-big"></div>
 </section>

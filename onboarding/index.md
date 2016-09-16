@@ -18,6 +18,10 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 
 	<p>We are excited to offer you a rich variety of astonishing diamonds, that will amaze your customers and making sure that you never overpay again.</p>
 
+	<p>
+		Just fill out the convenient contact form and start getting exclusive offers and rebates!
+	</p>
+
 	</div>
 
 <div class="cf" id="cta">
@@ -172,5 +176,5 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 <a class="cta-btn to-cta" href="#">Yes, I want extra savings</a>
 </div>
 </div>
-<div class="dummy"></div>
+<div class="dummy-big"></div>
 </section>
