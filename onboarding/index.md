@@ -105,6 +105,72 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 	<div class="tos-lander">By proceeding you agree to our <a href="/legal">Terms of Service</a></div>
 	</div>
 
+		<div class="testimonials">
+		<h5>What Our Clients Say</h5>
+		<div class="fade-top"></div>
+		<div class="fade-bottom"></div>
+		<ul>
+			<li>
+				<div class="face left">
+					<img src="/assets/images/user-1.jpg">
+				</div>
+				<div class="name right">
+					Jessica Schurwald, <br><span class="designation">Jewelry Designer</span>
+				</div>
+				<div class="cf"></div>
+				<div class="message light">
+					"I was happy with my supplier but then Jonah Levi offered me diamonds at a prices I could not have imagined. Just WOW!"
+				</div>
+				
+			</li>
+
+			<li>
+				<div class="face left">
+					<img src="/assets/images/user-2.jpg">
+				</div>
+				<div class="name right">
+					Konrad Krusiewicz, <br><span class="designation">Goldsmith &amp; Jeweler</span>
+				</div>
+				<div class="cf"></div>
+				<div class="message">
+					"The standard of service is unparalleled. My account manager always has the best deals and I have more time for my family now."
+				</div>
+				
+			</li>
+
+			<li>
+				<div class="face left">
+					<img src="/assets/images/user-3.jpg">
+				</div>
+				<div class="name right">
+					Robin Gibson, <br><span class="designation">Diamond Dealer</span>
+				</div>
+				<div class="cf"></div>
+				<div class="message">
+					"I really love that their delivery is so on time. Oh, and I also love the weekly sales. I always find unbelievable bargains."
+				</div>
+				
+			</li>
+
+
+			<li>
+				<div class="face left">
+					<img src="/assets/images/user-4.jpg">
+				</div>
+				<div class="name right">
+					Qing Min, <br><span class="designation">Diamond &amp; Custom Jewelery Retailer</span>
+				</div>
+				<div class="cf"></div>
+				<div class="message">
+					"My high-net clients are very demanding and the beautifully rare fancy-colored diamonds I find at Jonah Levi always amaze them."
+				</div>
+				
+			</li>
+	
+		</ul>
+	</div>
+
+
 </div>
 
 

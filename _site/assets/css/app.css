@@ -198,6 +198,14 @@ p {
 	opacity: 0;
 }
 
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
 .center {
 	text-align: center;
 }
@@ -666,18 +674,88 @@ a.cta-btn-on {
 	padding-top: 26px;
 }
 
+.fade-bottom {
+  background: url(../images/fade-bottom.png);
+  height: 84px;
+  width: 355px;
+  position: relative;
+  bottom: -435px;
+  margin-top: -154px;
+}
+
+.fade-top {
+  background: url(../images/fade-top.png);
+  position: relative;
+  height: 35px;
+  width: 355px;
+  top: -15px;
+}
+
+.testimonials {
+	padding-top: 20px;
+	height: 450px;
+	overflow: hidden;
+}
+
+.testimonials h5 {
+  background: #fff;
+  z-index: 5;
+  padding-top: 40px;
+  margin-top: -40px;
+}
+
+.testimonials ul li {
+	padding: 30px 0;
+	border-bottom: 1px solid #f0f0f0;
+}
+
+.testimonials ul li:first-child {
+	padding-top: 0;
+}
+
+.testimonials ul {
+	margin-top: -35px;
+	z-index: -1;
+	position: relative;
+}
+
+.face img{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	margin-top: 10px;
+	border: 1px solid #e0e0e0;
+}
+
+.message {
+	font-size: 17px;
+	line-height: 27px;
+	margin-top: 10px;
+}
+
+.name {
+  font-size: 16px;
+  float: left;
+  margin-top: 21px;
+  margin-left: 12px;
+  line-height: 20px;
+  font-weight: 600;
+}
+
+.designation {
+	font-size: 14px;
+	color: #969DA3;
+}
+
 /*--------------------------------------------------------------------------
 	
 	Signup
 
 --------------------------------------------------------------------------*/
 
-.signup-lander {
-	background: #3E3C3B;
-    border-radius: 5px;
-    padding: 30px;
-    color: #DFD8D2;
-}
+
 
 .signup {
 	background: #F9FCFB;
@@ -968,12 +1046,12 @@ input, textarea {
 	font-size: 12px;
 }
 
-.landingpage input#mc-embedded-subscribe {
+.landingpage input#mc-embedded-subscribe, input#mc-embedded-subscribe  {
 	font-size: 15px;
 	cursor: pointer;
 }
 
-.landingpage input#mc-embedded-subscribe:hover {
+.landingpage input#mc-embedded-subscribe:hover, input#mc-embedded-subscribe:hover  {
 	background: #8DCF91;
 }
 
@@ -1047,3 +1125,6 @@ input, textarea {
   -ms-transform: rotate(7deg);
   -o-transform: rotate(7deg);
   -webkit-transform: rotate(7deg);
+}
+
+
