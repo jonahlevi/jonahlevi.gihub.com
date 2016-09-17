@@ -153,7 +153,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 				</div>
 				<div class="cf"></div>
 				<div class="message">
-					"My high-net clients are very demanding and the beautifully rare fancy-colored diamonds I find at Jonah Levi always amaze them."
+					"My high-net clients are demanding and the beautifully rare fancy diamonds I find at Jonah Levi always amaze them."
 				</div>
 				
 			</li>

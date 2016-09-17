@@ -96,7 +96,7 @@ $(document).ready(function() {
 /*-----------------------------------------------------------------------------------*/
 $(function Testimonials() {
 
-    var ul = $(".testimonials ul");
+    ul = $(".testimonials ul");
     var h = ul.find("li:first-child").outerHeight(true);
 
     ul.animate({
@@ -108,6 +108,7 @@ $(function Testimonials() {
 
        ul.css({
             marginTop: 30
+            
         });
     });
 
