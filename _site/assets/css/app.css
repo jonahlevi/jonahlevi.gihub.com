@@ -1259,7 +1259,7 @@ input, textarea {
 	.filter {
 		background: url("../images/diamond-pattern-left.png"), url("../images/diamond-pattern-right.png");
 		background-repeat: no-repeat, no-repeat;
-		background-position: calc(50% - 406px) 0px,calc(50% + 406px) 0px;
+		background-position: calc(50% - 325px) -4px,calc(50% + 325px) -4px;
 	}
 
 }
