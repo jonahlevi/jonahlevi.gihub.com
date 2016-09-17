@@ -38,5 +38,4 @@ keywords: gia loose diamond sale, gia loose diamond online, gia certified diamon
 <a class="cta-btn" href="/onboarding">Yes, I want big discounts!</a>
 </div>
 </div>
-<div class="dummy-big"></div>
 </section>

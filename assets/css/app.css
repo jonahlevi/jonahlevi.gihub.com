@@ -148,6 +148,7 @@ table {
     *zoom: 1;
 }
 
+
 /*--------------------------------------------------------------------------
 	
 	General Styles
@@ -285,18 +286,8 @@ a:hover {
 }
 
 .full-margin {
-	position: absolute;
-	left: 0;
 	width: 100%;
 	min-width: 1024px;
-}
-
-.dummy {
-	height: 250px;
-}
-
-.dummy-big {
-	height: 350px;
 }
 
 .typed-cursor{
@@ -623,7 +614,7 @@ span.lead {
     background: #FCF9FC;
     border-bottom: 1px solid #E5DCE6;
     border-top: 1px solid #E5DCE6;
-    margin: 100px 0;
+    margin-top: 180px;
     padding: 30px 0;
 }
 
@@ -1125,6 +1116,129 @@ input, textarea {
   -ms-transform: rotate(7deg);
   -o-transform: rotate(7deg);
   -webkit-transform: rotate(7deg);
+}
+
+/*--------------------------------------------------------------------------
+	
+	Mobile
+
+--------------------------------------------------------------------------*/
+
+@media only screen 
+  and (min-device-width: 100px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+  	.story-wide {
+  		width: 800px;
+  	}
+  	h2 {
+  		font-size: 30px;
+  	}
+
+  	.sub-head {
+  		font-size: 14px;
+  	}
+
+  	.onboard-message {
+  		font-size: 12px;
+  		text-align: center;
+  		margin-bottom: 60px;
+  		padding-bottom: 30px;
+  		border-bottom: 1px solid #e0e0e0;
+  	}
+
+  	.small-full {
+  		width: 100%;
+  	}
+
+  	.small-full h4 {
+  		text-align: center;
+  		font-size: 30px;
+  	}
+
+  	ul.benefits {
+  		font-size: 13px;
+  	}
+
+  	span.lead {
+  		padding-left: 50px;
+  		font-size: 15px;
+  	}
+
+  	ul.benefits li .icon-ok-circled {
+  		font-size: 24px;
+  		margin-bottom: -33px;
+  		left: -11px;
+  		top: 15px;
+  	}
+
+  	ul.benefits li {
+  		margin-bottom: 24px;
+	}
+
+	.form-and-testimonials {
+		width: 100%;
+	}
+
+	.signup.center {
+		width: 41%;
+		float: left;
+		margin: 50px 8% 50px 0;
+	}
+
+	.testimonials {
+		width: 41%;
+		float: left;
+	}
+
+	.inner {
+		width: 95%;
+	}
+
+	.video-container {
+		height: 100%;
+	}
+
+	.landingpage h1 {
+		text-align: center;
+		font-size: 50px;
+		font-weight: 600;
+	}
+
+	.landingpage h2 {
+	    text-align: center;
+  		font-size: 26px;
+  		line-height: 54px;
+  		padding: 48px 20px;
+	}
+
+	.landingpage .two-thirds.first {
+		width: 100%;
+	}
+
+	ul.benefits-lander, .arrow, .landingpage .signup.center {
+		display: none;
+	}
+
+	.learn-more {
+		text-align: center;
+		padding-top: 60px 0;
+	}
+
+	.learn-more a {
+		  color: #6F8C71;
+		  border: 2px solid #9DC89F;
+		  background: #B3E8B6;
+		  font-size: 16px;
+		  padding: 20px 28px;
+		  border-radius: 4px;
+	}
+
+	.copyright {
+		font-size: 12px;
+	}
+
 }
 
 

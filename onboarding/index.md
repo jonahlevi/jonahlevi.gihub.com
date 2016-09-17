@@ -5,7 +5,6 @@ title: Wholesale Diamonds Online — Get the Popular List Now!
 keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale diamonds, buy wholesale diamonds online
 ---
 
-<section class="cf">
 <div class="story-wide cf">
 
 <div class="cf" id="cta">
@@ -28,7 +27,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 	</div>
 </div>
 
-<div class="two-thirds first">
+<div class="two-thirds first small-full">
 <h4>Satisfaction Guaranteed&mdash;Every Time.</h4>
 	<ul class="benefits">
 
@@ -61,18 +60,10 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 	<span class="lead">Enjoy full protection and total security</span><br>
 	We only use convenient and secure payment methods and your diamonds are <span class="highlight">guaranteed 100% insured and safe</span> with our world-class logistic partners. You are in control.
 	</li>
+</ul>
+</div>
 
-
-	<div class="hidden">
-
-	<li><span class="icon-ok-circled green"></span> <span class="highlight">Convenient &amp; Secure</span> Payment Methods</li>
-	<li><span class="icon-ok-circled green"></span> <span class="highlight">100%</span> Insured Shipping</li>
-	<li><span class="icon-ok-circled green"></span> <span class="highlight">CanadaMark</span> and <span class="highlight">ForeverMark</span> Eligible </li>
-	</div>
-	</ul>
-	</div>
-
-<div class="one-third">
+<div class="one-third form-and-testimonials">
 	<div class="signup center">
 	<p class="signup-paragraph">Can you afford not to buy with us? <br> <span class="sub">Don't miss out!</span></p>
 	<div class="triangle"></div>
@@ -177,17 +168,15 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 </div>
 
 </div>
-</section>
 
-<div class="partner full-margin">
+<div class="partner full-margin cf">
 	<div class="partner-list cf">
 		<div class="center"><img src="{{ site.baseurl }}assets/images/partners.png"></div>
 	</div>
 </div>
 
-<div class="dummy"></div>
 
-<section class="story white-bg">
+<section class="story white-bg cf">
 	<div class="center">
 	<h2>Frequently Asked Questions</h2>
 <div class="sub-head">These are the answers you were looking for</div>
@@ -261,6 +250,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 		<p>We view the protection of the environment as both a moral obligation and as a business imperative. We are committed to obtaining precious metals and gemstones in ways that are socially and environmentally responsible. </p>
 	</div> 
 </div>
+</section>
 
 <div class="cta full-margin">
 	<div class="center">
@@ -269,5 +259,3 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 <a class="cta-btn to-cta" href="#">Yes, I want extra savings</a>
 </div>
 </div>
-<div class="dummy-big"></div>
-</section>
