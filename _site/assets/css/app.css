@@ -979,7 +979,7 @@ footer ul li {
 
 --------------------------------------------------------------------------*/
 
-input, textarea {
+.contact-form input, textarea {
   font-size: 17px;
   border: 1px solid #ddd;
   background: #fff;
@@ -988,12 +988,12 @@ input, textarea {
   width: calc(100% - 30px); 
   margin-bottom: 20px;
 }
-  input:focus, textarea:focus {
+ .contact-form input:focus, textarea:focus {
     border-color: #d2c1e0;
     outline: none;
     box-shadow: 0 0 5px 1px #80be84; }
 
-.contact-form button, .button {
+.contact-form button, .contact-form .button {
   font-weight: 600;
   border: 1px solid #BBAEC5!important;
   background-color: #D3BFE2;
@@ -1006,7 +1006,7 @@ input, textarea {
   font-family: 'Lato';
 }
 
-.contact-form button:hover, .button:hover {
+.contact-form button:hover, .contact-form .button:hover {
   background-color: #DDC7ED;
 }
 
@@ -1023,7 +1023,7 @@ input, textarea {
 
 .contact-form-prelude {
 	font-size: 18px;
-	line-height: 29px;
+	line-height: 24px;
 }
 
 /*--------------------------------------------------------------------------
