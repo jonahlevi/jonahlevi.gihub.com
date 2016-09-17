@@ -1134,8 +1134,12 @@ input, textarea {
   		width: 800px;
   	}
 
+  	.story .center h2 {
+  		font-size: 40px;
+  	}
+
   	.sub-head {
-  		font-size: 14px;
+  		font-size: 24px;
   	}
 
   	.onboard-message {
