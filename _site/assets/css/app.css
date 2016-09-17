@@ -804,6 +804,7 @@ input#mc-embedded-subscribe {
     margin: 10px 0;
     font-family: 'Lato';
     -webkit-appearance: none;
+    border: 1px solid #74A377;
 }
 
 .highlight {
@@ -1248,6 +1249,20 @@ input, textarea {
 
 	.copyright {
 		font-size: 12px;
+	}
+
+	.video-container video {
+		display: none;
+	}
+
+	.video-container {
+		background: #fafafa;
+	}
+
+	.filter {
+		background: url("../images/diamond-pattern-left.png"), url("../images/diamond-pattern-right.png");
+		background-repeat: no-repeat, no-repeat;
+		background-position: calc(50% - 406px) 0px,calc(50% + 406px) 0px;
 	}
 
 }
