@@ -97,14 +97,14 @@ $(document).ready(function() {
 $(function Testimonials() {
 
     var ul = $(".testimonials ul");
-    test_h = ul.find("li:first-child").height() + 80;
+    test_h = ul.find("li:first-child").outerHeight();
 
     ul.animate({
         marginTop: -test_h
     }, 10000, "linear", function() {
         ul.find("li:first-child").appendTo(ul);
         ul.css({
-            marginTop: -20
+            marginTop: 30
         });
     });
 
