@@ -1133,6 +1133,11 @@ input, textarea {
   	.story-wide {
   		width: 800px;
   	}
+
+  	h1 {
+  	    font-weight: 600;
+  	}
+
   	h2 {
   		font-size: 30px;
   	}
