@@ -97,13 +97,16 @@ $(document).ready(function() {
 $(function Testimonials() {
 
     var ul = $(".testimonials ul");
-    test_h = ul.find("li:first-child").outerHeight();
+    var h = ul.find("li:first-child").outerHeight(true);
 
     ul.animate({
-        marginTop: -test_h
-    }, 10000, "linear", function() {
+        marginTop: -h
+    }, 10000
+     , "linear"
+     , function() {
         ul.find("li:first-child").appendTo(ul);
-        ul.css({
+
+       ul.css({
             marginTop: 30
         });
     });

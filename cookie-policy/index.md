@@ -3,7 +3,7 @@ layout: page
 ---
 
 <section>
-	<div class="story legal cf">
+	<div class="story cf">
 	<h1>Cookie Policy</h1>
 	<p class="date">Last Updated September 7, 2016</p>
 <div class="fine-print">
