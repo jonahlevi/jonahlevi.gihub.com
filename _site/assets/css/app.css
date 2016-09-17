@@ -180,13 +180,6 @@ table {
 	margin: 0 auto;
 }
 
-.top-color {
-  background: #d3bfe2;
-  height: 10px;
-  width: 100%;
-  margin-bottom: 40px;
-}
-
 p {
 	margin-bottom: 25px;
 }
@@ -428,6 +421,10 @@ p.sub {
 	margin-bottom: 0;
 }
 
+header {
+	padding-top: 45px;
+}
+
 /*--------------------------------------------------------------------------
 	
 	Header
@@ -439,7 +436,7 @@ p.sub {
 }
 
 .border {
-    border: 2px solid #D1CAD7!important;
+    border: 2px solid #E8E8E8!important;
     font-weight: normal!important;
     padding: 10px;
     border-radius: 5px;
@@ -449,7 +446,6 @@ p.sub {
     -webkit-transition: .25s;
     transition: .25s;
     background: #fff;
-    color: #9b89a9;
 }
 
 .border:hover {
@@ -984,12 +980,12 @@ footer ul li {
 --------------------------------------------------------------------------*/
 
 input, textarea {
-  font-size: 0.8em;
+  font-size: 17px;
   border: 1px solid #ddd;
   background: #fff;
-  padding: 0.9em;
+  padding: 15px;
   transition: all 0.3s ease-in-out;
-  width: 100%; 
+  width: calc(100% - 30px); 
   margin-bottom: 20px;
 }
   input:focus, textarea:focus {
@@ -997,23 +993,38 @@ input, textarea {
     outline: none;
     box-shadow: 0 0 5px 1px #80be84; }
 
-.contact-form button {
+.contact-form button, .button {
   font-weight: 600;
-  border: 2px solid #DDDDDD;
-  background: transparent;
+  border: 1px solid #BBAEC5!important;
+  background-color: #D3BFE2;
   padding: 10px 20px;
   transition: all 0.3s ease-in-out;
-  color: #817F86;
+  color: #FFFFFF!important;
   border-radius: 4px;
   font-size: 17px;
   cursor: pointer;
   font-family: 'Lato';
 }
 
+.contact-form button:hover, .button:hover {
+  background-color: #DDC7ED;
+}
+
 .sent-ok {
 	font-size: 100px;
 }
 
+.contact-form {
+	background-color: #fafafa;
+	border-radius: 3px;
+	padding: 30px;
+	border: 1px solid #EDEDED;
+}
+
+.contact-form-prelude {
+	font-size: 18px;
+	line-height: 29px;
+}
 
 /*--------------------------------------------------------------------------
 	
