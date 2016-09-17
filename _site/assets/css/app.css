@@ -1215,6 +1215,7 @@ input, textarea {
   		font-size: 36px;
   		line-height: 54px;
   		padding: 48px 20px;
+  		color: #888;
 	}
 
 	.typed {
@@ -1252,14 +1253,17 @@ input, textarea {
 	}
 
 	.video-container {
-		background: #fafafa;
+		background: none;
 		height: 650px;
 	}
 
 	.filter {
-		background: url("../images/diamond-pattern-left.png"), url("../images/diamond-pattern-right.png");
+		background-image: url("../images/diamond-pattern-left.png"), url("../images/diamond-pattern-right.png");
 		background-repeat: no-repeat, no-repeat;
 		background-position: calc(50% - 325px) -4px,calc(50% + 325px) -4px;
+		background-color: #fafafa;
+		background-blend-mode: normal;
+
 	}
 
 }
