@@ -519,11 +519,11 @@ p.sub {
 	margin-bottom: -120px;
 }
 
-ul.benefits li a, .story a {
+ul.benefits li a, .story a, .story-wide a {
 	border-bottom: 2px solid #e0e0e0;
 }
 
-ul.benefits li a:hover, .story a:hover {
+ul.benefits li a:hover, .story a:hover, .story-wide a:hover {
 	border-bottom: 2px solid #d3bfe2;
 	color: #626262;
 }
@@ -1001,7 +1001,7 @@ input, textarea {
   background: transparent;
   padding: 10px 20px;
   transition: all 0.3s ease-in-out;
-  color: #625F68;
+  color: #817F86;
   border-radius: 4px;
   font-size: 17px;
   cursor: pointer;
