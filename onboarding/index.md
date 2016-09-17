@@ -97,7 +97,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 	</div>
 
 		<div class="testimonials">
-		<h5>What Our Clients Say</h5>
+		<h5>Our Clients <span class="icon-heart red"></span> Us</h5>
 		<div class="fade-top"></div>
 		<div class="fade-bottom"></div>
 		<ul>

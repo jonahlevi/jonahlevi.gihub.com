@@ -223,6 +223,10 @@ p {
 	color: #7ACA81;
 }
 
+.red {
+	color: #EDAEAE;;
+}
+
 .white-bg {
 	background: #fff;
 	padding-top: 120px!important;
@@ -738,6 +742,7 @@ a.cta-btn-on {
 .designation {
 	font-size: 14px;
 	color: #969DA3;
+	font-weight: normal;
 }
 
 /*--------------------------------------------------------------------------
@@ -931,6 +936,10 @@ footer {
 	margin-top: 20px;
 	font-size: 15px;
 	line-height: 28px;
+}
+
+.copyright {
+	font-size: 13px;
 }
 
 .footer-border {
