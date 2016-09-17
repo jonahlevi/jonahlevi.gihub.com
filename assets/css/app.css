@@ -1097,12 +1097,22 @@ footer ul li {
   border-top: 1px solid #DFDFDF;
 }
 
-.filter	{
+.filter_old	{
 	background: rgba(249,251,252,.8);
 	position: absolute;
 	width: 100%;
 	height: 100%;
 	z-index: 2;
+}
+
+.filter {
+  background-image: url("../images/back.svg");
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  background-color: #f7f6e6;
+  background-blend-mode: soft-light;
 }
 
 .anti-spam {
@@ -1267,10 +1277,6 @@ footer ul li {
 
 	.copyright {
 		font-size: 12px;
-	}
-
-	.video-container video {
-		display: none;
 	}
 
 	.video-container {
