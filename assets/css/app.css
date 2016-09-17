@@ -1134,14 +1134,6 @@ input, textarea {
   		width: 800px;
   	}
 
-  	h1 {
-  	    font-weight: 700;
-  	}
-
-  	h2 {
-  		font-size: 30px;
-  	}
-
   	.sub-head {
   		font-size: 14px;
   	}
@@ -1209,7 +1201,7 @@ input, textarea {
 	.landingpage h1 {
 		text-align: center;
 		font-size: 50px;
-		font-weight: 600;
+		font-weight: 700;
 	}
 
 	.landingpage h2 {
