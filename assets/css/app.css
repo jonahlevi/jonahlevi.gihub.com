@@ -939,9 +939,10 @@ footer {
 }
 
 .footer-border {
-	border-bottom: 10px solid #d3bfe2;
-	padding: 30px 0;
-	margin-bottom: 30px;
+  border-bottom: 10px solid #d3bfe2;
+  padding: 30px 0;
+  width: 1024px;
+  margin: 0 auto;
 }
 
 .footer-title {
@@ -1023,7 +1024,7 @@ footer ul li {
 
 .contact-form-prelude {
 	font-size: 18px;
-	line-height: 29px;
+	line-height: 29cpx;
 }
 
 /*--------------------------------------------------------------------------
