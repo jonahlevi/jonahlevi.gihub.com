@@ -28,13 +28,13 @@ title: Contact Us &mdash; Jonah Levi Diamanten
 
 <div class="one-half">
 
-<p> <span class="bold">Company Address</span><br>
+<p> <span class="bold">Company Mailing Address</span><br>
 Jonah Levi Diamanten Ltd. &amp; Co. KG<br>
 Schillertr. 55<br>
 D-73033 Göppingen
 </p>
 
-<p><span class="bold">General Sales Number</span><br>
+<p><span class="bold">General Sales Phone Number</span><br>
 <span class="icon-phone">+49 (0) 1590 444 444 5</span></p>
 </div>
 
