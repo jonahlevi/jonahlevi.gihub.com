@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Terms of Service for Jonah Levi Diamanten
+keywords: jonah levi diamanten, jonah levi diamonds, loose gia diamonds, buy gia diamonds online
+description: Find our Terms of Service and Cookie Policy here.
 ---
 
 <section>

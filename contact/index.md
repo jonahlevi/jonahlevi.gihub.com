@@ -2,7 +2,7 @@
 layout: page
 description: Contact Jonah Levi Diamanten for wholesale GIA certified diamonds in Europe. Worldwide shipping!
 keywords: gia certified diamonds, buy wholesale diamonds, diamonds, loose diamonds
-title: Contact Us &mdash; Jonah Levi Diamanten
+title: Contact Us for loose GIA-certified diamonds &mdash; Jonah Levi Diamanten
 ---
 
 <section class="cf">

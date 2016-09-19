@@ -45,7 +45,7 @@ $(document).ready(function() {
             $('#hellobar').animate({
                 marginTop: 0
             }, 300);
-        }, 1500);
+        }, 12000);
 
     };
 
@@ -118,6 +118,25 @@ $(function Testimonials() {
 
 });
 
+/*-----------------------------------------------------------------------------------*/
+/*      4. Career
+/*-----------------------------------------------------------------------------------*/
+$(function () {
+
+    $(".show-more").click(function () {
+
+        if ($(this).html() == "Show Less") {
+                $(this).parent().next().hide({
+                    }, 500);
+                $(this).html("Show More");
+        } else if ($(this).html() == "Show More") {
+                $(this).parent().next().show({
+                    }, 500);
+                $(this).html("Show Less");
+
+        }
+    });
+});
 
 
 

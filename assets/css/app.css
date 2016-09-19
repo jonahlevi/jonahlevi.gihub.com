@@ -287,6 +287,22 @@ a:hover {
 	min-width: 1024px;
 }
 
+.button {
+	border: 1px solid #E8E8E8;
+	padding: 15px 20px;
+	border-radius: 3px;
+	-o-transition: .25s;
+    -ms-transition: .25s;
+    -moz-transition: .25s;
+    -webkit-transition: .25s;
+    transition: .25s;
+}
+
+.button:hover {
+	border: 1px solid #D3BFE2;
+	color: #D3BFE2;
+}
+
 .typed-cursor{
     opacity: 1;
     -webkit-animation: blink 0.7s infinite;
@@ -569,7 +585,7 @@ ul.benefits li a:hover, .story a:hover, .story-wide a:hover {
 	margin-bottom: 20px;
 }
 
-.legal {
+.legal, .full-width {
 	width: 1024px;
 }
 
@@ -856,7 +872,7 @@ input#mc-embedded-subscribe {
 
 --------------------------------------------------------------------------*/
 .notice {
-	margin-top: 60px;
+	margin: 60px 0;
 	padding: 17px;
 	border-radius: 4px;
 	border: 1px solid #eceded;
@@ -1162,6 +1178,50 @@ footer ul li {
   -webkit-transform: rotate(7deg);
 }
 
+/*--------------------------------------------------------------------------
+	
+	Careers
+
+--------------------------------------------------------------------------*/
+
+.careers .job-title {
+	font-size: 27px;
+	padding-bottom: 20px;
+	font-family: "Playfair Display", serif;
+}
+
+.careers .title {
+	font-weight: 700;
+}
+
+.careers .text {
+	padding-bottom: 20px;
+	font-size: 17px;
+}
+
+.careers h4 {
+	font-size: 40px;
+	border-bottom: 1px solid #E8E8E8;
+	padding-bottom: 15px;
+}
+
+.text ul {
+	list-style: initial;
+	padding-left: 20px;
+}
+
+.show-more {
+	color: #494949;
+	opacity: .3;
+	font-size: 15px;
+	margin-left: 20px;
+	font-family: 'Lato';
+	cursor: pointer;
+}
+
+.job-description {
+	display: none;
+}
 /*--------------------------------------------------------------------------
 	
 	Mobile
