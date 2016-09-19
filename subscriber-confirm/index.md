@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thanks for your mail!
+title: Thanks for your subscription!
 ---
 
 <section class="story cf">
