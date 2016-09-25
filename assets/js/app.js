@@ -74,6 +74,7 @@ $(document).ready(function() {
         }, 200);
 
     });
+    
     /*-----------------------------------------------------------------------------------*/
     /*		3. Typed.js
     /*-----------------------------------------------------------------------------------*/
@@ -88,33 +89,48 @@ $(document).ready(function() {
             backDelay: 1500
         });
     });
+    
+    /*-----------------------------------------------------------------------------------*/
+    /*      4. Testimonials
+    /*-----------------------------------------------------------------------------------*/
+    $(function Testimonials() {
 
-});
+        ul = $(".testimonials ul");
+        var h = ul.find("li:first-child").outerHeight(true);
 
-/*-----------------------------------------------------------------------------------*/
-/*		4. Testimonials
-/*-----------------------------------------------------------------------------------*/
-$(function Testimonials() {
+        ul.animate({
+            marginTop: -h
+        }, 10000
+         , "linear"
+         , function() {
+            ul.find("li:first-child").appendTo(ul);
 
-    ul = $(".testimonials ul");
-    var h = ul.find("li:first-child").outerHeight(true);
-
-    ul.animate({
-        marginTop: -h
-    }, 10000
-     , "linear"
-     , function() {
-        ul.find("li:first-child").appendTo(ul);
-
-       ul.css({
-            marginTop: 30
-            
+           ul.css({
+                marginTop: 30
+                
+            });
         });
+
+        self.setInterval(function() {
+           Testimonials()
+        }, 10000);
+
     });
 
-    var interval = self.setInterval(function() {
-        Testimonials()
-    }, 10000);
+    /*-----------------------------------------------------------------------------------*/
+    /*      4. Career
+    /*-----------------------------------------------------------------------------------*/
+        $(".job-title").click(function () {
+
+            if ($(this).next().is(':visible') == false) {
+                    $(this).next().show({
+                        }, 500);
+            } else if ($(this).next().is(':visible') == true) {
+                    $(this).next().hide({
+                        }, 500);
+
+            }
+        });
 
 });
 
@@ -137,7 +153,6 @@ $(function () {
         }
     });
 });
-
 
 
 

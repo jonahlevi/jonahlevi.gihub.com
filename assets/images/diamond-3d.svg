@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="193px" height="139px" viewBox="0 0 193 139" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>diamond</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-20.0456404%" x2="21.0877363%" y2="93.6888386%" id="linearGradient-1">
+            <stop stop-color="#499070" offset="0%"></stop>
+            <stop stop-color="#61CA91" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-2.98543981%" y1="14.2785319%" x2="46.7583834%" y2="125.991793%" id="linearGradient-2">
+            <stop stop-color="#000000" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <polyline id="path-3" points="92.7795245 1.43114737 50.7860171 43.1283355 139.400962 43.1283367"></polyline>
+        <linearGradient x1="43.4657341%" y1="-30.3722276%" x2="75.4117082%" y2="84.6603827%" id="linearGradient-4">
+            <stop stop-color="#2E8556" offset="0%"></stop>
+            <stop stop-color="#46AE81" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="15.3521115%" y1="-13.7777369%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#92D4B6" offset="0%"></stop>
+            <stop stop-color="#64BA8C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="41.9123153%" y1="0%" x2="72.5682662%" y2="31.9630745%" id="linearGradient-6">
+            <stop stop-color="#49BC8A" offset="0%"></stop>
+            <stop stop-color="#258C55" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-7" points="50.8680294 43.0629513 93.3963958 138.778492 139.226228 43.0629513"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="9" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="10" dy="10" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0699162138 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="91.4798259%" y2="88.9744001%" id="linearGradient-9">
+            <stop stop-color="#86EEC1" offset="0%"></stop>
+            <stop stop-color="#328F5D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <polygon id="Path" fill="#A6FBD3" points="0.0453999541 43.332568 41.8271856 1.21748906 50.751616 43.4828388"></polygon>
+            <polyline id="Path-2" fill="url(#linearGradient-1)" points="41.8408895 1.36293057 93 1.36293057 50.7300792 43.5962031"></polyline>
+            <g id="Path-4">
+                <use fill="#61D395" xlink:href="#path-3"></use>
+                <use fill-opacity="0.330000013" fill="url(#linearGradient-2)" style="mix-blend-mode: multiply;" xlink:href="#path-3"></use>
+            </g>
+            <polyline id="Path-5" fill="url(#linearGradient-4)" points="92.5965408 1.31811649 139.29777 43.2035024 149.50805 0.944907907"></polyline>
+            <polyline id="Path-7" fill="url(#linearGradient-5)" points="148.836111 0.918494797 191.170794 43.1838446 139.400962 42.821055"></polyline>
+            <polyline id="Path-8" fill="url(#linearGradient-6)" points="191.114773 43.1599559 93.4181979 138.57164 139.328186 42.8285522"></polyline>
+            <g id="Path-9">
+                <use fill="#34A96A" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+            </g>
+            <polygon id="Path-10" fill="url(#linearGradient-9)" points="0.170743573 43.3181324 93.5045411 138.82708 50.9111861 43.1758965"></polygon>
+        </g>
+    </g>
+</svg>

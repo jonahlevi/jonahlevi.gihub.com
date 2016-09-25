@@ -176,7 +176,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 </div>
 
 
-<section class="story white-bg cf">
+<section class="story cf">
 	<div class="center">
 	<h2>Frequently Asked Questions</h2>
 <div class="sub-head">These are the answers you were looking for</div>

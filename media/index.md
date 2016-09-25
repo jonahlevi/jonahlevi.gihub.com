@@ -42,13 +42,15 @@ keywords: jonah levi, jonah levi diamanten, diamonds, wholesale diamonds, buy gi
 
 <p>Our logo comes in two variations. The Jonah Levi logo can either be displayed with or without its tag-line "Diamanten". While you may use "Jonah Levi Diamanten" and "Jonah Levi Diamonds" interchangeably, you may not alter the wordmark to anything other than presented below.</p>
 
-<div class="one-half first">
+
+<div class="cf">
+	<div class="one-half first">
 	<img src="/assets/images/logo-dark.jpg">
 </div>
 <div class="one-half">
 	<img class="logo-border" src="/assets/images/logo-light.jpg">
 </div>
-<div class="cf"></div>
+</div>
 
 <div class="notice">Please do not embellish on the logo with shadows, patterns, intricate backgrounds, or other manipulations.</div>
 <div class="cf"></div>
@@ -57,7 +59,8 @@ keywords: jonah levi, jonah levi diamanten, diamonds, wholesale diamonds, buy gi
 
 <p>We use Tundora or Lighter Tundora copy on pure white background with small accents of Jonah Levi Lilac and Haze. Alabaster is the color of our wordmark on the Jonah Levi Lilac background. </p>
 
-<div class="one-fifth first">
+<div class="swatches">
+	<div class="one-fifth first">
 	<div class="swatch-jllilac">
 		Jonah Levi Lilac
 		<div class="swatch-footer">
@@ -106,6 +109,7 @@ keywords: jonah levi, jonah levi diamanten, diamonds, wholesale diamonds, buy gi
 			CMYK 0, 0, 0, 7
 		</div>
 	</div>
+</div>
 </div>
 <div class="cf"></div>
 </div>

@@ -8,14 +8,15 @@ commentlinks: true
 
 source:      .
 destination: ./_site
-plugins:     ./_plugins
+
+sass: 
+  sass_dir: /assets/css
+  style: compressed
 
 future:      true
 lsi:         false
-pygments:    true
 markdown:    kramdown
 permalink:   /notes/:title/
-paginate:    10
 
 maruku:
   use_tex:    false
@@ -32,7 +33,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
 coderay:
     coderay_wrap: div
