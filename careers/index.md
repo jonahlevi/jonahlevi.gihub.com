@@ -71,7 +71,7 @@ title: Careers with Jonah Levi Diamonds
 		<div class="title">Location</div>
 		<div class="text">Global, Italy preferred</div>
 		<div class="application-text">
-			<div><span class="button">Apply for this job today</span></div>
+			<div><a href="/contact" class="button">Apply for this job today</a></div>
 		<div class="alternative">or <span><a href="/contact">ask us a question</a></span></div> 
 		</div>
 	</div>
