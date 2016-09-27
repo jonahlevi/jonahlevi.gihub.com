@@ -1,2 +1,5 @@
+/_site
 _site/
 *.scssc
+
+_site/assets/js/app.js

@@ -1,11 +1,11 @@
 /*-------------------------------------------------------------------------------------
 
- 	Custom JS - All front-end jQuery
+    Custom JS - All front-end jQuery
  
 -------------------------------------------------------------------------------------*/
 
 /*-----------------------------------------------------------------------------------*/
-/*		0. Loading Div
+/*      0. Loading Div
 /*-----------------------------------------------------------------------------------*/
 $(window).load(function() {
     var l = $(".overlay"),
@@ -23,7 +23,7 @@ $(window).load(function() {
 
 $(document).ready(function() {
     /*-----------------------------------------------------------------------------------*/
-    /*		1. Scroll to CTA
+    /*      1. Scroll to CTA
     /*-----------------------------------------------------------------------------------*/
     $("a.to-cta").click(function() {
         $('html, body').animate({
@@ -32,7 +32,7 @@ $(document).ready(function() {
     });
 
     /*-----------------------------------------------------------------------------------*/
-    /*		2. Hellobar
+    /*      2. Hellobar
     /*-----------------------------------------------------------------------------------*/
     if (Cookies.get('hellobar') == undefined) {
         Cookies.set('hellobar', 'fresh');
@@ -74,9 +74,9 @@ $(document).ready(function() {
         }, 200);
 
     });
-    
+
     /*-----------------------------------------------------------------------------------*/
-    /*		3. Typed.js
+    /*      3. Typed.js
     /*-----------------------------------------------------------------------------------*/
     $(function() {
         $(".typed").typed({
@@ -89,75 +89,41 @@ $(document).ready(function() {
             backDelay: 1500
         });
     });
-    
+
     /*-----------------------------------------------------------------------------------*/
     /*      4. Testimonials
     /*-----------------------------------------------------------------------------------*/
-    $(function Testimonials() {
-
+    function testimonalSlider() {
         ul = $(".testimonials ul");
         var h = ul.find("li:first-child").outerHeight(true);
 
         ul.animate({
             marginTop: -h
-        }, 10000
-         , "linear"
-         , function() {
+        }, 10000, "linear", function() {
             ul.find("li:first-child").appendTo(ul);
 
-           ul.css({
+            ul.css({
                 marginTop: 30
-                
+
             });
         });
+    }
+    
+    testimonalSlider();
+    setInterval(testimonalSlider, 10000);
 
-        self.setInterval(function() {
-           Testimonials()
-        }, 10000);
-
-    });
 
     /*-----------------------------------------------------------------------------------*/
     /*      4. Career
     /*-----------------------------------------------------------------------------------*/
-        $(".job-title").click(function () {
+    $(".job-title").click(function() {
 
-            if ($(this).next().is(':visible') == false) {
-                    $(this).next().show({
-                        }, 500);
-            } else if ($(this).next().is(':visible') == true) {
-                    $(this).next().hide({
-                        }, 500);
-
-            }
-        });
-
-});
-
-/*-----------------------------------------------------------------------------------*/
-/*      4. Career
-/*-----------------------------------------------------------------------------------*/
-$(function () {
-
-    $(".show-more").click(function () {
-
-        if ($(this).html() == "Show Less") {
-                $(this).parent().next().hide({
-                    }, 500);
-                $(this).html("Show More");
-        } else if ($(this).html() == "Show More") {
-                $(this).parent().next().show({
-                    }, 500);
-                $(this).html("Show Less");
+        if ($(this).next().is(':visible') == false) {
+            $(this).next().show({}, 500);
+        } else if ($(this).next().is(':visible') == true) {
+            $(this).next().hide({}, 500);
 
         }
     });
+
 });
-
-
-
-
-
-
-
-
