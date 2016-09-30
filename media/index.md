@@ -57,21 +57,41 @@ keywords: jonah levi, jonah levi diamanten, diamonds, wholesale diamonds, buy gi
 
 <h3>Corporate Colors</h3>
 
-<p>We use Tundora or Lighter Tundora copy on pure white background with small accents of Jonah Levi Lilac and Haze. Alabaster is the color of our wordmark on the Jonah Levi Lilac background. </p>
+<p>We use Granite for copy on pure white with small accents of Jonah Levi Cyan Blue and Goldenrod. Alabaster or Goldenrod is the color of our wordmark on the Jonah Levi Cyan Blue background. </p>
 
 <div class="swatches">
 	<div class="one-fifth first">
-	<div class="swatch-jllilac">
-		Jonah Levi Lilac
+	<div class="swatch cyan">
+		Jonah Levi Cyan
 		<div class="swatch-footer">
-			HEX #D2C1E0<br>
-			RGB 210, 193, 224<br>
-			CMYK 6, 14, 0, 12
+			HEX #2F87CA<br>
+			RGB 47, 135, 202<br>
+			CMYK 77, 33, 0, 21
 		</div>
 	</div>
 </div>
 <div class="one-fifth">
-	<div class="swatch-alabaster">
+	<div class="swatch blue">
+		St. Patrick's Blue
+		<div class="swatch-footer">
+			HEX #253C78<br>
+			RGB 37, 60, 120<br>
+			CMYK 69, 50, 0, 53
+		</div>
+	</div>
+</div>
+<div class="one-fifth">
+	<div class="swatch gold">
+		Goldenrod
+		<div class="swatch-footer">
+			HEX #EDE8A1<br>
+			RGB 237, 232, 161<br>
+			CMYK 0, 2, 32, 7
+		</div>
+	</div>
+</div>
+<div class="one-fifth">
+	<div class="swatch alabaster">
 		Alabaster
 		<div class="swatch-footer">
 			HEX #F9F9F9<br>
@@ -81,32 +101,12 @@ keywords: jonah levi, jonah levi diamanten, diamonds, wholesale diamonds, buy gi
 	</div>
 </div>
 <div class="one-fifth">
-	<div class="swatch-tundora">
-		Tundora
+	<div class="swatch granite">
+		Granite
 		<div class="swatch-footer">
-			HEX #4A4A4A<br>
-			RGB 74, 74, 74<br>
-			CMYK 0, 0, 0, 71
-		</div>
-	</div>
-</div>
-<div class="one-fifth">
-	<div class="swatch-lighter-tundora">
-		Lighter Tundora
-		<div class="swatch-footer">
-			HEX #6D6A72<br>
-			RGB 109, 106, 114<br>
-			CMYK 4, 7, 0, 55
-		</div>
-	</div>
-</div>
-<div class="one-fifth">
-		<div class="swatch-haze">
-		Haze
-		<div class="swatch-footer">
-			HEX #ECEDED<br>
-			RGB 236, 237, 237<br>
-			CMYK 0, 0, 0, 7
+			HEX #5F6268<br>
+			RGB 95, 98, 104<br>
+			CMYK 9, 6, 0, 59
 		</div>
 	</div>
 </div>

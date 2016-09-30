@@ -86,11 +86,11 @@ textarea {
 }
 
 ::-moz-selection {
-    color: #776883; 
+    color: $accent-color; 
     background: $primary-color;
 }
 ::selection {
-    color: #776883; 
+    color: $accent-color; 
     background: $primary-color;
 }
 
@@ -821,7 +821,7 @@ footer {
 }
 
 .footer-border {
-  border-bottom: 10px solid $primary-color;
+  border-bottom: 10px solid $text-color;
   padding: 30px 0;
   width: $full-width;
   margin: 0 auto;
@@ -848,33 +848,46 @@ footer {
     font-size: 16px;
 }
 
-.swatch-jllilac, .swatch-alabaster, .swatch-tundora, .swatch-lighter-tundora, .swatch-haze {
-	background: #d2c1e0;
+.swatches {
+	padding-top: 30px;
+}
+
+.swatch {
 	border-color: #d2c1e0;
 	height: 200px;
 	width: calc(100% - 30px);
 	padding: 15px;
 	font-size: 15px;
 	line-height: 20px;
+}
+
+.cyan {
+	background-color: $primary-color;
 	color: #fff;
 }
 
-.swatch-alabaster {
-	background: #f9f9f9;
+.gold {
+	@extend .swatch;
+	background-color: $gold;
 	color: #636069;
 }
 
-.swatch-tundora {
-	background: #4a4a4a;
-}
-
-.swatch-lighter-tundora {
-	background: #6d6a72;
-}
-
-.swatch-haze {
-	background: $cool-gray;
+.alabaster {
+	@extend .swatch;
+	background-color: $alabaster;
 	color: #636069;
+}
+
+.granite {
+	@extend .swatch;
+	background-color: $text-color;
+	color: #fff;
+}
+
+.blue {
+	@extend .swatch;
+	background-color: $blue;
+	color: #fff;
 }
 
 .swatch-footer {
