@@ -235,8 +235,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 	</div> 
 	<div class="one-half-faq">
 		<h5>Will I be charged tax in my country?</h5>
-		<p>All sales are exclusive of tax, i.e., it is in your own responsibility to check with customs whether or not import taxes or duties may apply.</p>
-		<p>Most of the time we ship from the EU. The resulting deal is therefore not subject to VAT.</p>
+		<p>All sales are net sales. Head over to <a href="http://www.dutycalculator.com/hs-code-duty-rate-import-restrictions/710239/loose-diamond/7102.39.0050/7102.39.0000/1664/">dutycalculator.com</a> to check whether you need to pay any duty or taxes.</p>
 	</div> 
 </div>
 
