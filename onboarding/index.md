@@ -235,7 +235,7 @@ keywords: wholesale diamonds online, wholesale diamonds prices, buy wholesale di
 	</div> 
 	<div class="one-half-faq">
 		<h5>Will I be charged tax in my country?</h5>
-		<p>All sales are net sales. Head over to <a href="http://www.dutycalculator.com/hs-code-duty-rate-import-restrictions/710239/loose-diamond/7102.39.0050/7102.39.0000/1664/">dutycalculator.com</a> to check whether you need to pay any duty or taxes.</p>
+		<p>All sales are net sales. Head over to <a target="_blank" href="http://www.dutycalculator.com/hs-code-duty-rate-import-restrictions/710239/loose-diamond/7102.39.0050/7102.39.0000/1664/">dutycalculator.com</a> to check whether you need to pay any duty or taxes.</p>
 	</div> 
 </div>
 
