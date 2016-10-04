@@ -25,7 +25,7 @@ E: office@jonahlevi.co<br>
 
 <p>
 	<span class="bold">VAT ID Number:</span><br>
-	DE307704723
+	DE 307704723
 </p>
 
 <p>
