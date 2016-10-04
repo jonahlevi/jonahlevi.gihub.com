@@ -30,7 +30,7 @@ E: office@jonahlevi.co<br>
 
 <p>
 	<span class="bold">Register Court and Number:</span><br>
-	District Court of Ulm at HRA 725048
+	Register Court of Ulm &mdash; HRA 725048
 </p>
 <p>
 <span class="bold">General Partner:</span><br> 
