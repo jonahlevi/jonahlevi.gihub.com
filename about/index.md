@@ -22,13 +22,13 @@ keywords: gia loose diamond sale, gia loose diamond online, gia certified diamon
 
 <div class="row cf">
 <h3>What We Do</h3>
-<p class="finer">We service our clients with a continuous and rich assortment of the finest, loose, <a target="blank_" href="http://www.gia.edu/">GIA-certified</a> diamonds, ranging from .3 points up to 20 carats. On some occasions, we also offer high-quality non-certified diamonds in the range of .01 points up to 3 carats&mdash;always yielding best value for our clients due to direct contact to the bourses.</p>
+<p class="finer">We service our clients with a continuous and rich assortment of the finest, loose, <a target="blank_" href="http://www.gia.edu/">GIA-certified</a> diamonds, ranging from .3 points up to 20 carats. On some occasions, we also offer high-quality non-certified diamonds in the range of .01 points up to 3 carats&mdash;always yielding best value for our clients due to our extensive private network of clients and direct contact to diamond bourses.</p>
 </div>
 
 
 <div class="row cf">
 <h3>Where We Are Going</h3>
-<p class="finer">Our direct and established contacts at the international diamond bourses and to high-grade manufactures, allow us to provide exceptional prices and long term supply arrangements for key accounts. On these grounds, we will continue to expand our operations internationally. Currently, we are building a branch in Indonesia to serve our Asian clientel and will expand our operations globally as well as vertically, in order to serve end-clients with custom made jewelry.</p>
+<p class="finer">Our direct contacts to high-grade manufactures and our private network of clients, allow us to provide exceptional prices and long term supply arrangements for key accounts. On these grounds, we will continue to expand our operations internationally. Currently, we are building a branch in Indonesia to serve our Asian clientel and will expand our operations globally as well as vertically, in order to serve end-clients with custom made jewelry.</p>
 </div>
 
 </div>
