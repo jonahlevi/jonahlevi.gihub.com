@@ -3,13 +3,13 @@ description: Diamond Supplier, providing the finest natural, polished, and GIA c
 meta-description: Jonah Levi Diamanten is a diamond supplier and German based wholesaler for natural, polished, and GIA certified diamonds.
 url: http://www.jonahlevi.co
 baseurl: /
-domain: 
+domain: jonahlevi.co
 commentlinks: true
 
 source:      .
 destination: ./_site
 
-sass: 
+sass:
   sass_dir: /assets/css
   style: compressed
 
