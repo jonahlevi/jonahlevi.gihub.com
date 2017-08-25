@@ -29,7 +29,7 @@ keywords: gia loose diamond sale, gia loose diamond online, gia certified diamon
 
 <div class="row cf">
 <h3>Where We Are Going</h3>
-<p class="finer">Our direct contacts to high-grade manufactures and our private network of clients, allow us to provide exceptional prices and long term supply arrangements for key accounts. On these grounds, we will continue to expand our operations internationally. Currently, we are hiring local business developers and account managers for Italy, France, Spain, and the USA. if you are as excited about diamonds as we are you should have a look at our <a href="{{ site.baseurl }}careers">vacancies</a>.</p>
+<p class="finer">Our direct contacts to high-grade manufactures and our private network of clients, allow us to provide exceptional prices and long term supply arrangements for key accounts. On these grounds, we will continue to expand our operations internationally. Currently, we are hiring local business developers and account managers for Italy, France, Spain, Turkey, and the USA. if you are as excited about diamonds as we are you should have a look at our <a href="{{ site.baseurl }}careers">vacancies</a>.</p>
 </div>
 
 </div>
