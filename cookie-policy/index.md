@@ -8,7 +8,7 @@ layout: page
 	<p class="date">Last Updated September 7, 2016</p>
 <div class="fine-print">
 
-<h3>What Are Cookies</h3>
+<h3>What Cookies Are</h3>
 
 <p>As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or 'break' certain elements of the sites functionality.
 </p>
