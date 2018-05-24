@@ -22,34 +22,34 @@ layout: page
 <p>In this data protection declaration, we use, inter alia, the following terms:</p>
 
 <ul style="list-style: none">
-<li><h4>a)    Personal data</h4>
+<li><h4>a)    Personal data
 <p>Personal data means any information relating to an identified or identifiable natural person (“data subject”). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.</p>
 </li>
-<li>b) Data subje4>
+<li>b) Data subject
 <p>Data subject is any identified or identifiable natural person, whose personal data is processed by the controller responsible for the processing.</p>
 </li>
-<li>c)    Processh4>
+<li>c)    Processing
 <p>Processing is any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction. </p>
 </li>
-<li>d)    Restricof processing</h4>
+<li>d)    Restriction of processing
 <p>Restriction of processing is the marking of stored personal data with the aim of limiting their processing in the future. </p>
 </li>
-<li>e)    Profili4>
+<li>e)    Profiling
 <p>Profiling means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person's performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements. </p>
 </li>
-<li>f)     Pseudoation</h4>
+<li>f)     Pseudonymisation
 <p>Pseudonymisation is the processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organisational measures to ensure that the personal data are not attributed to an identified or identifiable natural person. </p>
 </li>
-<li>g)    Controlr controller responsible for the processing</h4>
+<li>g)    Controller or controller responsible for the processing
 <p>Controller or controller responsible for the processing is the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law. </p>
 </li>
-<li>h)    Process4>
+<li>h)    Processor
 <p>Processor is a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller. </p>
 </li>
-<li>i)      Recip/h4>
+<li>i)      Recipient
 <p>Recipient is a natural or legal person, public authority, agency or another body, to which the personal data are disclosed, whether a third party or not. However, public authorities which may receive personal data in the framework of a particular inquiry in accordance with Union or Member State law shall not be regarded as recipients; the processing of those data by those public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing. </p>
 </li>
-<li>j)      Thirdy</h4>
+<li>j)      Third party
 <p>Third party is a natural or legal person, public authority, agency or body other than the data subject, controller, processor and persons who, under the direct authority of the controller or processor, are authorised to process personal data.</p>
 </li>
 <li>k)    Consent
